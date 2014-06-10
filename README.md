@@ -1,24 +1,19 @@
-Marco Dirk Visser
-=========================
-
 ----
 
-Forenames
+* Forenames
 :	Marco, Dirk.
-Surname
+* Surname
 :	Visser.
-Sex:
+* Sex:
 	Male.
-Occupation
+* Occupation
 :	PhD candidate (Apr 2011 - present) at Radboud University Nijmegen (The Netherlands).
-Nationality
+* Nationality
 :	Dutch.
-Place of birth
+* Place of birth
 :	Springs, South Africa.
-Date of birth
+* Date of birth
 :	October 5, 1982.
-
-> to be finalized
 ----
 
 Research experience
