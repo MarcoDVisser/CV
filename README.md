@@ -46,23 +46,23 @@ Forestry and Nature Conservation, with specialization in Tropical Forestry.
 
 Publications (inc. submitted/ in preparation)
 ------------------------------------------------
-M. D. Visser, E. Jongejans, M. van Breugel, P. A. Zuidema, Y. Chen, A. R. Kassim, H. de Kroon. 2011.  Strict mast fruiting for a tropical dipterocarp tree: A demographic cost-benefit analysis of delayed reproduction and seed predation. Journal of Ecology. 99, 1033-1044.  
-M. D. Visser, S. Joseph Wright, Helene C. Muller-Landau, Gemma Rutten and Patrick A. Jansen. Tri-trophic interactions affect density dependence of seed fate in a tropical forest palm. 2011, Ecology Letters. 14, 1093–1100.
-B. van Putten, M. D. Visser, P. A. Jansen and H. C. Muller-Landau. Distorted- distance models for directional dispersal: a general framework and its application to a wind-dispersed tropical forest trees. Methods in Ecology and Evolution. 2012.
-B. T. Hirsch, M. D. Visser, R. Kays and P. A. Jansen.  Quantifying seed dispersal kernels from truncated seed-tracking data. Methods in Ecology and Evolution. 2012
-M. D. Visser. aprof: Amdahl's profiler, directed optimization made easy. R package version 0.1 – 0.2. http://cran.r-project.org/web/packages/aprof/index.html. 2013.
-P. A. Jansen, M. D.  Visser, S. J. Wright, G. Rutten, H. C.  Muller-Landau. Negative density-dependence of seed dispersal and seedling recruitment in a Neotropical palm. Ecology Letters in press. 2014.
-M. D. Visser, S. M. McMahon, C. Merow, P. M. Dixon, S. Record and E. Jongejans. Speeding up ecological and evolutionary computations in R; essentials of high performance computing for biologists. In review at Methods in Ecology and Evolution.
-M. D. Visser, H. C. Muller-Landau, S. J. Wright, J. Svenning, P. A. Jansen. Seasonal aggregation of generalist seed predators around preferred fruit trees: consequences for negative density-dependence of seed survival. In preparation for Ecology.
+1. M. D. Visser, E. Jongejans, M. van Breugel, P. A. Zuidema, Y. Chen, A. R. Kassim, H. de Kroon. 2011.  Strict mast fruiting for a tropical dipterocarp tree: A demographic cost-benefit analysis of delayed reproduction and seed predation. Journal of Ecology. 99, 1033-1044.  
+2. M. D. Visser, S. Joseph Wright, Helene C. Muller-Landau, Gemma Rutten and Patrick A. Jansen. Tri-trophic interactions affect density dependence of seed fate in a tropical forest palm. 2011, Ecology Letters. 14, 1093–1100.
+3. B. van Putten, M. D. Visser, P. A. Jansen and H. C. Muller-Landau. Distorted- distance models for directional dispersal: a general framework and its application to a wind-dispersed tropical forest trees. Methods in Ecology and Evolution. 2012.
+4. B. T. Hirsch, M. D. Visser, R. Kays and P. A. Jansen.  Quantifying seed dispersal kernels from truncated seed-tracking data. Methods in Ecology and Evolution. 2012
+5. M. D. Visser. aprof: Amdahl's profiler, directed optimization made easy. R package version 0.1 – 0.2. http://cran.r-project.org/web/packages/aprof/index.html. 2013.
+6. P. A. Jansen, M. D.  Visser, S. J. Wright, G. Rutten, H. C.  Muller-Landau. Negative density-dependence of seed dispersal and seedling recruitment in a Neotropical palm. Ecology Letters in press. 2014.
+7. M. D. Visser, S. M. McMahon, C. Merow, P. M. Dixon, S. Record and E. Jongejans. Speeding up ecological and evolutionary computations in R; essentials of high performance computing for biologists. In review at Methods in Ecology and Evolution.
+8. M. D. Visser, H. C. Muller-Landau, S. J. Wright, J. Svenning, P. A. Jansen. Seasonal aggregation of generalist seed predators around preferred fruit trees: consequences for negative density-dependence of seed survival. In preparation for Ecology.
 
 About my research
 ------------------------
-King, B (2011), Smithsonian Tropical Research Institute News. The enemy of my enemy is my friend.1:2
-Sugden AM (2011) Editors' choice. Ecology. The Enemy of My Enemy is my…?. Science 334:569.
+* King, B (2011), Smithsonian Tropical Research Institute News. The enemy of my enemy is my friend.1:2
+* Sugden AM (2011) Editors' choice. Ecology. The Enemy of My Enemy is my…?. Science 334:569.
 Ecological Association of America - young plant population ecologist of the month (October 2011). Featured work: M. D. Visser et al, 2011, Ecology Letters.
-Kouwen M (2011) Mastjaar overtreft jaarlijkse zaadzetting. Bionieuws 13:6.
-Sugden AM (2011) Editors' choice. Ecology. Why trees skip a year. Science 333:386
-Rees M (2011) Editor's Choice: Volume 99, Issue 4 (July). Journal of Ecology.
+* Kouwen M (2011) Mastjaar overtreft jaarlijkse zaadzetting. Bionieuws 13:6.
+* Sugden AM (2011) Editors' choice. Ecology. Why trees skip a year. Science 333:386
+* Rees M (2011) Editor's Choice: Volume 99, Issue 4 (July). Journal of Ecology.
 
 Grants and awards
 ------------------
