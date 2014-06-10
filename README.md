@@ -1,9 +1,5 @@
 ----
-
-* Forenames
-:	Marco, Dirk.
-* Surname
-:	Visser.
+> Marco Dirk Visser
 * Sex:
 	Male.
 * Occupation
@@ -14,6 +10,7 @@
 :	Springs, South Africa.
 * Date of birth
 :	October 5, 1982.
+
 ----
 
 Research experience
