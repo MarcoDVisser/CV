@@ -3,6 +3,21 @@ Marco Dirk Visser
 
 ----
 
+Forenames
+:	Marco, Dirk.
+Surname
+:	Visser.
+Sex:
+	Male.
+Occupation
+:	PhD candidate (Apr 2011 - present) at Radboud University Nijmegen (The Netherlands).
+Nationality
+:	Dutch.
+Place of birth
+:	Springs, South Africa.
+Date of birth
+:	October 5, 1982.
+
 >  Specialties: C++, Python, Linux, Operations Research\
 >  Doctor in Computer Science and Mathematics
 
