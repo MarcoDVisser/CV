@@ -1,132 +1,87 @@
-Marco Dirk Visser
-=========================
+# Marco Dirk Visser
 
 ----
 
->  Specialties: C++, Python, Linux, Operations Research\
->  Doctor in Computer Science and Mathematics
+* Sex:
+	Male.
+* Occupation
+:	PhD candidate (Apr 2011 - present) at Radboud University Nijmegen (The Netherlands).
+* Nationality
+:	Dutch.
+* Place of birth
+:	Springs, South Africa.
+* Date of birth
+:	October 5, 1982.
 
 ----
 
-Corporate Experience
+Research experience
 --------------------
-
-Since 2013
-:   *Data Scientist for [Airconomy](https://www.airconomy.com/)*
-    (Frankfurt am Main, Germany).
-
-    Data mining on various sources to forecast passenger demands over
-    airline networks.
-
-2009-2012
-:   *PhD in Operations Research with
-    [Amadeus](http://www.amadeus.com/amadeus/amadeus.html)* (Sophia
-    Antipolis, France).
-
-    Researched how to assign aircraft on an airline network in the most
-    efficient way. I authored several projects, including a C++ solver,
-    a Python suite of 20+ command line tools, and Hadoop data mining
-    scripts. I also worked as a teaching assistant at the university,
-    further improving my communication and public speaking skills.
-
-2008 (3 months)
-:   *Internship at [Rio Tinto Alcan](http://www.riotintoalcan.com/)*
-    (Clermont Ferrand, France).
-
-    Co-authored a C++ library for optimizing the revenue of a metal
-    factory. This work was published in the corporate journal of the
-    company.
-
-2007 (3 months)
-:   *Internship at [GE
-    Healthcare](http://www3.gehealthcare.com/en/Global_Gateway)* (Paris,
-    France).
-
-    Elaborated an UML spec for the refactoring of 20.000 lines of C++.
-
-Selected Open Source Contributions
-----------------------------------
-
-Python
-:   Contributor to [pulp-or](http://code.google.com/p/pulp-or/), a
-    linear programming Python library. Author of small tools, like
-    [michel](https://github.com/chmduquesne/michel), a command line
-    program providing bidirectionnal synchronization of google tasks
-    with text files.
-
-C++
-:   Author of
-    [yaposib](http://yaposib.readthedocs.org/en/latest/index.html), a
-    Python binding to COIN-OSI that is now supported by
-    [pulp-or](http://code.google.com/p/pulp-or/).
-
-C
-:   Author of
-    [lazylpsolverlibs](https://code.google.com/p/lazylpsolverlibs/), a
-    set of proxy libraries targeting cplex, gurobi and xpress. I also
-    started writing
-    [sharebox](https://github.com/chmduquesne/sharebox-fs), a
-    distributed FUSE file system based on git.
-
-Java
-:   Author of [talkmyphone](http://code.google.com/p/talkmyphone/), an
-    android application allowing phone control via gtalk. It had 10.000+
-    downloads, and was forked 50 times. It was then successfully handed
-    over to [other developers](http://code.google.com/p/gtalksms/).
-
-Misc
-:   Lua, Ada, Bash, Makefile, m4, autotools, cmake... See my [github
-    résumé](http://resume.github.com/?chmduquesne). My
-    [kudorank](http://meta.ohloh.net/kudos/) on ohloh is 9, among the
-    top 2% of opensource developers.
-
-Linux
-:   My daily operating system: I [blog](http://blog.chmd.fr) about it
-    sometimes.
+- PhD candidate (Apr 2011 - present) at the Department of Experimental Plant Ecology, Radboud University Nijmegen (The Netherlands). 
+- Predoctoral Fellow (Apr 2010 – - present) at the Smithsonian Tropical Research Institute, Gamboa (Panama). 
+- Junior researcher (Sept 2009 – Feb 2010) at the Department of Experimental Plant Ecology,  Radboud University Nijmegen (The Netherlands). 
+- Short-term Fellow (Oct 2008 – Feb 2009) at the Smithsonian Tropical Research Institute, Barro Colorado Island (Panama). 
+- MSc. Thesis research (2008-2009) at the Forest Ecology and Forest Management Group, Wageningen University and Smithsonian Tropical Research Institute, Barro Colorado Island, Panama.
+- MSc. Thesis research (2008-2009) at the unit Mathematical and Statistical Methods (Biometris) of Wageningen University. 
+- B.A. Thesis research (2007) at the Forest Research Institute Malaysia, Pasoh Forest Reserve, Malaysia for Larenstein College.
+- Internship (2005) at the Forest Research Institute Malaysia, Kepong, Malaysia.
+- Internship (2004) at the Mammal Research Institute, Polish Academy of Sciences, Bialowieza, Poland.
+- Volunteer (2003) at the Mammal Research Institute, Polish Academy of Sciences, Bialowieza, Poland.
 
 Education
----------
+----------------------------------
+* September, 2009
+: Wageningen University and research centre, M.Sc. (cum laude, highest distinction at WU).
+ Forestry and Nature Conservation, with a minor in Mathematics and Statistical Methods.
 
-2009-2012
-:   *PhD in Mathematics and Computer Science at G-SCOP Laboratory*
-    (Grenoble, France).
+* September, 2007
+: Larenstein University of Applied Sciences, B.A.
+Forestry and Nature Conservation, with specialization in Tropical Forestry.
 
-    Title: Integration of Fleet Deployment and of Passenger Service in
-    Airline Schedule Management. Done at Amadeus, in the Operation
-    Research team led by [Semi
-    Gabteni](http://www.linkedin.com/in/semigabteni). Advisors: [Denis
-    Naddef](http://www.g-scop.inpg.fr/~naddefd/), [Olivier
-    Briant](http://www.g-scop.inpg.fr/~brianto/index.php?page=1).
-    Defended in January 2013.
+Publications (inc. submitted/ in preparation)
+------------------------------------------------
+1. M. D. Visser, E. Jongejans, M. van Breugel, P. A. Zuidema, Y. Chen, A. R. Kassim, H. de Kroon. 2011.  Strict mast fruiting for a tropical dipterocarp tree: A demographic cost-benefit analysis of delayed reproduction and seed predation. Journal of Ecology. 99, 1033-1044.  
+2. M. D. Visser, S. Joseph Wright, Helene C. Muller-Landau, Gemma Rutten and Patrick A. Jansen. Tri-trophic interactions affect density dependence of seed fate in a tropical forest palm. 2011, Ecology Letters. 14, 1093–1100.
+3. B. van Putten, M. D. Visser, P. A. Jansen and H. C. Muller-Landau. Distorted- distance models for directional dispersal: a general framework and its application to a wind-dispersed tropical forest trees. Methods in Ecology and Evolution. 2012.
+4. B. T. Hirsch, M. D. Visser, R. Kays and P. A. Jansen.  Quantifying seed dispersal kernels from truncated seed-tracking data. Methods in Ecology and Evolution. 2012
+5. M. D. Visser. aprof: Amdahl's profiler, directed optimization made easy. R package version 0.1 – 0.2. http://cran.r-project.org/web/packages/aprof/index.html. 2013.
+6. P. A. Jansen, M. D.  Visser, S. J. Wright, G. Rutten, H. C.  Muller-Landau. Negative density-dependence of seed dispersal and seedling recruitment in a Neotropical palm. Ecology Letters in press. 2014.
+7. M. D. Visser, S. M. McMahon, C. Merow, P. M. Dixon, S. Record and E. Jongejans. Speeding up ecological and evolutionary computations in R; essentials of high performance computing for biologists. In review at Methods in Ecology and Evolution.
+8. M. D. Visser, H. C. Muller-Landau, S. J. Wright, J. Svenning, P. A. Jansen. Seasonal aggregation of generalist seed predators around preferred fruit trees: consequences for negative density-dependence of seed survival. In preparation for Ecology.
 
-2005-2009
-:   *MS in Computer Science in ENSIMAG* (Grenoble, France).
-
-    Top French school of Applied Mathematics and Computer Science with
-    highly selective recruitment.
-
-2002-2005
-:   *Preparatory classes in Lycée Thiers* (Marseille, France).
-
-    Mathematics and Physics courses before a national competitive
-    examination to Grandes Écoles.
-
-Activities and interests
+About my research
 ------------------------
+* King, B (2011), Smithsonian Tropical Research Institute News. The enemy of my enemy is my friend.1:2
+* Sugden AM (2011) Editors' choice. Ecology. The Enemy of My Enemy is my…?. Science 334:569.
+Ecological Association of America - young plant population ecologist of the month (October 2011). Featured work: M. D. Visser et al, 2011, Ecology Letters.
+* Kouwen M (2011) Mastjaar overtreft jaarlijkse zaadzetting. Bionieuws 13:6.
+* Sugden AM (2011) Editors' choice. Ecology. Why trees skip a year. Science 333:386
+* Rees M (2011) Editor's Choice: Volume 99, Issue 4 (July). Journal of Ecology.
 
-Hobbies
-:   I like travelling. I backpacked in 13 countries in Eastern Europe
-    and South East Asia.
+Grants and awards
+------------------
+- Grant: NWO-ALW, What maintains the diversity of tropical tree species? Unravelling the importance of niche and neutrality with a life cycle approach. Co-wrote with Hans de Kroon, Helene Muller-Landau, Eelke Jongejans, S. J. Wright, P.A. Zuidema, P.A. Jansen and S. Tuljapurkar (€ 230k). 2011. 
+- Award: WUF-KLV thesis prize for the best thesis in the life sciences from Wageningen University awarded for my MSc thesis: “Density-dependent dispersal and seed predation in a Neotropical palm”. 2009.
+- Grant: Smithsonian Tropical Research Institute, short term fellowship awarded for the study: “Quantifying density-dependent responses of seed predators in the Neotropical palm Attalea butyracea”. ($ 5k). 2008. 
 
-Sports
-:   Running, Cycling, Hiking. I also played rugby union for 7 years.
 
-Activities
-:   I was the president of the [grand
-    cercle](http://www.grandcercle.org), one of the largest French
-    campus student associations (5.000 members) during university.
+International presentations
+-----------------------------
+* Invited speaker at the conference Everything disperses to Miami, December 14 - December 16, 2012, The University of Miami. The fitness consequences of dispersal for a tropical palm; the role of dispersers, natural enemies and negative density dependence.
+* Invited speaker at the Max Planck Intitute for Demographic Research, workshop on Integral Projection Models, Rostock Germany.  June 2012. A Blueprint for speeding-up calculations in R.
+* Oral presentation at the Netherlands Annual Ecology Meeting. February 2012. Quantifying dispersal kernels through inverse modeling. 
+* Oral presentation at the Smithsonian Tropical Research Institute. Panama. August 2010. Density-dependence in a Neotropical palm: the role of dispersal, seed predation and trophic interactions.
+* Invited speaker at the 5th International Symposium-Workshop on Frugivores and Seed Dispersal. Montpellier, France. June 2010. Measuring dispersal kernels through inverse modeling: density dependence of seed dispersal in a Neotropical palm.
+* Speaker at Plant Population Biology: Crossing Borders. GfÖ-conference, Nijmegen, Netherlands. May 2010. Strict mast fruiting for a tropical dipterocarp tree: a demographic cost-benefit analysis 
+* Oral presentation at the Smithsonian Tropical Research Institute. Panama. December 2009. Density-dependent dispersal and seed predation in a Neotropical palm.
+* Oral presentation at the workshop on stochastic elasticity and matrix modeling. Nijmegen, the Netherlands, June 2008. Strict masting in the tropical tree species Shorea leprosula: demographic consequences and evolutionary benefit of predator satiation.
+* Oral presentation at the International workshop in Matrix models of plant populations. Sogndal, Norway, June 2007. Demographic consequences of strict masting for two tropical tree species Shorea leprosula and Shorea parvifolia.
+
+
+Reviewer for scientific journals
+--------------------------------
+Biotropica, Canadian Journal of Forest Research, Ecology, Ecology and Evolution, Ecology Letters, Journal of Biogeography, Journal of Ecology, Methods in Ecology and Evolution, PLOS computational biology. 
 
 ----
-
-> <chmd@chmd.fr> • +336 84 14 26 82 • 28 years old\
->  275, chemin du Petit Castel - 13100 Aix en Provence, FRANCE
+> contact <marco.d.visser@gmail.com> 
+----
