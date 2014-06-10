@@ -38,11 +38,11 @@ Education
 ----------------------------------
 * September, 2009
 : Wageningen University and research centre, M.Sc. (cum laude, highest distinction at WU).
- - Forestry and Nature Conservation, with a minor in Mathematics and Statistical Methods.
+ Forestry and Nature Conservation, with a minor in Mathematics and Statistical Methods.
 
 * September, 2007
 : Larenstein University of Applied Sciences, B.A.
-- Forestry and Nature Conservation, with specialization in Tropical Forestry.
+Forestry and Nature Conservation, with specialization in Tropical Forestry.
 
 Publications (inc. submitted/ in preparation)
 ------------------------------------------------
