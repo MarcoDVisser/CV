@@ -2,16 +2,12 @@
 
 ----
 
-* Sex:
-	Male.
 * Occupation
 :	PhD candidate (Apr 2011 - present) at Radboud University Nijmegen (The Netherlands).
 * Nationality
 :	Dutch.
 * Place of birth
 :	Springs, South Africa.
-* Date of birth
-:	October 5, 1982.
 
 ----
 
