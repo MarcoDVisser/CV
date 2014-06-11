@@ -1,4 +1,4 @@
-# Marco Dirk Visser
+# Marco D. Visser
 
 ----
 * Occupation
