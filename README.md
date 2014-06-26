@@ -79,5 +79,5 @@ Reviewer for scientific journals
 Biotropica, Canadian Journal of Forest Research, Ecology, Ecology and Evolution, Ecology Letters, Journal of Biogeography, Journal of Ecology, Methods in Ecology and Evolution, PLOS computational biology. 
 
 ----
-> contact <marco.d.visser [at] gmail.com> 
+> contact: marco.d.visser [at] gmail.com
 ----
