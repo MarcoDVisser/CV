@@ -14,9 +14,9 @@
 Research experience
 --------------------
 - PhD candidate (Apr 2011 - present) at the Department of Experimental Plant Ecology, Radboud University Nijmegen (The Netherlands). 
-- Predoctoral Fellow (Apr 2010 � - present) at the Smithsonian Tropical Research Institute, Gamboa (Panama). 
-- Junior researcher (Sept 2009 � Feb 2010) at the Department of Experimental Plant Ecology,  Radboud University Nijmegen (The Netherlands). 
-- Short-term Fellow (Oct 2008 � Feb 2009) at the Smithsonian Tropical Research Institute, Barro Colorado Island (Panama). 
+- Predoctoral Fellow (Apr 2010 - present) at the Smithsonian Tropical Research Institute, Gamboa (Panama). 
+- Junior researcher (Sept 2009 - Feb 2010) at the Department of Experimental Plant Ecology,  Radboud University Nijmegen (The Netherlands). 
+- Short-term Fellow (Oct 2008 - Feb 2009) at the Smithsonian Tropical Research Institute, Barro Colorado Island (Panama). 
 - MSc. Thesis research (2008-2009) at the Forest Ecology and Forest Management Group, Wageningen University and Smithsonian Tropical Research Institute, Barro Colorado Island, Panama.
 - MSc. Thesis research (2008-2009) at the unit Mathematical and Statistical Methods (Biometris) of Wageningen University. 
 - B.A. Thesis research (2007) at the Forest Research Institute Malaysia, Pasoh Forest Reserve, Malaysia for Larenstein College.
