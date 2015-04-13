@@ -46,7 +46,7 @@ Differential effects of lianas on population growth rates of tropical forest tre
 ---
 
 ### About my research
-* Salguero-Gómez, R (2015). https://jecologyblog.wordpress.com/2015/04/09/demography-to-infinity-and-beyond/
+* Salguero-Gómez, R (2015). Demography to infinity and beyond! Journal of Ecology blog. https://jecologyblog.wordpress.com/2015/04/09/demography-to-infinity-and-beyond/
 * King, B (2011), Smithsonian Tropical Research Institute News. The enemy of my enemy is my friend.1:2
 * Sugden AM (2011) Science Editors' choice. Ecology. The Enemy of My Enemy is my? Science 334:569.
 * Ecological Association of America - young plant population ecologist of the month (October 2011). Featured work: M. D. Visser et al, 2011, Ecology Letters.
