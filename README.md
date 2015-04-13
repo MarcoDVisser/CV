@@ -1,5 +1,4 @@
 # Marco D. Visser
-
 ----
 
 * Occupation
