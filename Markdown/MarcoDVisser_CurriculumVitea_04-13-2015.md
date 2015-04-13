@@ -37,7 +37,7 @@ Forestry and Nature Conservation, with specialization in Tropical Forestry.
 4. B. T. Hirsch, M. D. Visser, R. Kays and P. A. Jansen.  Quantifying seed dispersal kernels from truncated seed-tracking data. Methods in Ecology and Evolution. 2012
 5. M. D. Visser. aprof: Amdahl's profiler, directed optimization made easy. R package version 0.1 - 0.2. http://cran.r-project.org/web/packages/aprof/index.html. 2013.
 6. P. A. Jansen, M. D.  Visser, S. J. Wright, G. Rutten, H. C.  Muller-Landau. Negative density-dependence of seed dispersal and seedling recruitment in a Neotropical palm. Ecology Letters 17: 1111–1120. 2014.
-7. M. D. Visser, S. M. McMahon, C. Merow, P. M. Dixon, S. Record and E. Jongejans.  Speeding Up Ecological and Evolutionary Computations in R; Essentials of High Performance Computing for Biologists. PLoS Comput Biol 11(3): e1004140. doi:10.1371/journal.pcbi.1004140
+7. M. D. Visser, S. M. McMahon, C. Merow, P. M. Dixon, S. Record and E. Jongejans.  Speeding Up Ecological and Evolutionary Computations in R; Essentials of High Performance Computing for Biologists. PLoS Comput Biol 11(3): e1004140. doi:10.1371/journal.pcbi.1004140. 2015.
 8. M. D. Visser, M. Bruijning, S. Joseph Wright, Helene C. Muller-Landau,  Eelke Jongejans, Liza S. Comita and Hans de Kroon. Functional traits as predictors of vital rates across the life-cycle of tropical trees. In prep. Functional Ecology.
 9. M. D. Visser, S. Joseph Wright, Helene C. Muller-Landau,  Eelke Jongejans, Liza S. Comita, Hans de Kroon and Stefan Schnitzer. 
 Differential effects of lianas on population growth rates of tropical forest trees. In prep.
