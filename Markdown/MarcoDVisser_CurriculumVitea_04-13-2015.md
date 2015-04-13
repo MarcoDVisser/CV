@@ -51,7 +51,7 @@ Differential effects of lianas on population growth rates of tropical forest tre
 * Sugden AM (2011) Science Editors' choice. Ecology. The Enemy of My Enemy is my? Science 334:569.
 * Ecological Association of America - young plant population ecologist of the month (October 2011). Featured work: M. D. Visser et al, 2011, Ecology Letters.
 * Kouwen M (2011) Mastjaar overtreft jaarlijkse zaadzetting. Bionieuws 13:6.
-* Sugden AM (2011) Editors' choice. Ecology. Why trees skip a year. Science 333:386
+* Sugden AM (2011) Science Editors' choice. Ecology. Why trees skip a year. Science 333:386
 * Rees M (2011) Editor's Choice: Volume 99, Issue 4 (July). Journal of Ecology.
 
 ---
