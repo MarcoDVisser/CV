@@ -43,7 +43,7 @@ Publications (inc. submitted/ in preparation)
 6. P. A. Jansen, M. D.  Visser, S. J. Wright, G. Rutten, H. C.  Muller-Landau. Negative density-dependence of seed dispersal and seedling recruitment in a Neotropical palm. Ecology Letters 17: 1111–1120. 2014.
 7. M. D. Visser, S. M. McMahon, C. Merow, P. M. Dixon, S. Record and E. Jongejans.  Speeding Up Ecological and Evolutionary Computations in R; Essentials of High Performance Computing for Biologists. PLoS Comput Biol 11(3): e1004140. doi:10.1371/journal.pcbi.1004140
 8. M. D. Visser, M. Bruijning, S. Joseph Wright, Helene C. Muller-Landau,  Eelke Jongejans, Liza S. Comita and Hans de Kroon. Functional traits as predictors of vital rates across the life-cycle of tropical trees. In prep. Functional Ecology.
-9.M. D. Visser, S. Joseph Wright, Helene C. Muller-Landau,  Eelke Jongejans, Liza S. Comita, Hans de Kroon and Stefan Schnitzer. 
+9. M. D. Visser, S. Joseph Wright, Helene C. Muller-Landau,  Eelke Jongejans, Liza S. Comita, Hans de Kroon and Stefan Schnitzer. 
 Differential effects of lianas on population growth rates of tropical forest trees. In prep.
 10. M. D. Visser, H. C. Muller-Landau, S. J. Wright, J. Svenning, P. A. Jansen. Seasonal aggregation of generalist seed predators around preferred fruit trees: consequences for negative density-dependence of seed survival. In preparation for Ecology.
 
@@ -68,7 +68,7 @@ International presentations
 * Workshop at the at the British Ecological Society Symposium "Demography Beyond The Population". March 2015, Sheffield. Speeding Up Ecological and Evolutionary Computations in R; Essentials of High Performance Computing for Biologists.
 * Oral presentation at the British Ecological Society Symposium "Demography Beyond The Population". March 2015, Sheffield. Differential effects of lianas on population growth rates of tropical forest trees.
 * Short Workshop at the Yale School of Forestry & Environmental Studies. December 2014, New Haven. Speeding Up Ecological and Evolutionary Computations in R; Essentials of High Performance Computing for Biologists.
-* Invited speaker at the conference Everything disperses to Miami, December 14 - December 16, 2012, The University of Miami. The fitness consequences of dispersal for a tropical palm; the role of dispersers, natural enemies and negative density dependence.
+* Invited speaker at the conference "Everything disperses to Miami", December 14 - December 16, 2012, the University of Miami. The fitness consequences of dispersal for a tropical palm; the role of dispersers, natural enemies and negative density dependence.
 * Invited speaker at the Max Planck Intitute for Demographic Research, workshop on Integral Projection Models, Rostock Germany.  June 2012. A Blueprint for speeding-up calculations in R.
 * Oral presentation at the Netherlands Annual Ecology Meeting. February 2012. Quantifying dispersal kernels through inverse modeling. 
 * Oral presentation at the Smithsonian Tropical Research Institute. Panama. August 2010. Density-dependence in a Neotropical palm: the role of dispersal, seed predation and trophic interactions.
