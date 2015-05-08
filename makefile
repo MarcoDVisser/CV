@@ -11,13 +11,14 @@ MASTER = README.md
 MD = $(CV_DIR)/Markdown/$(BASENAME)_$(DATE).md
 PDF = $(CV_DIR)/PDF/$(BASENAME)_$(DATE).pdf
 WORD = $(CV_DIR)/Word/$(BASENAME)_$(DATE).docx
+HTML = $(CV_DIR)/PDF/$(BASENAME)_$(DATE).html
 
 ## functions
 RNAME = cp '$<' '$@' 
 PDOC = pandoc -s --smart '$<' -o '$@' 
 ## for now just rename the md files
 ## I intend to add pandoc code here
-all: $(MD) $(PDF) $(WORD)
+all: $(MD) $(HTML) $(PDF) $(WORD)
 
 #########################
 ## main markdownx
@@ -25,8 +26,11 @@ all: $(MD) $(PDF) $(WORD)
 $(MD):$(MASTER)
 	$(RNAME)
 
-$(PDF):$(MASTER)
-	$(PDOC)
+$(HTML):$(MASTER) style.css
+	pandoc --standalone -c style.css --from markdown --to html -o '$@' '$<'
+
+$(PDF): $(HTML)
+	wkhtmltopdf '$<' '$@' 
 
 $(WORD):$(MASTER)
 	$(PDOC)
