@@ -26,8 +26,8 @@ all: $(MD) $(HTML) $(PDF) $(WORD)
 $(MD):$(MASTER)
 	$(RNAME)
 
-$(HTML):$(MASTER) ./PDF/style.css
-	pandoc --standalone -c ./PDF/style.css --from markdown --to html -o '$@' '$<'
+$(HTML):$(MASTER) style.css
+	pandoc --standalone -c style.css --from markdown --to html -o '$@' '$<'
 
 $(PDF): $(HTML)
 	wkhtmltopdf '$<' '$@' 
