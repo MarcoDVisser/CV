@@ -10,7 +10,7 @@ Since 2011
 :      Predoctoral Fellow (Apr 2010 - present) at the Smithsonian Tropical Research Institute, Gamboa (Panama).
 
 2009 - 2010
-:       Junior researcher (Sept 2009 - Feb 2010) at the Department of Experimental Plant Ecology,  Radboud University Nijmegen (The Netherlands).
+:      Junior researcher (Sept 2009 - Feb 2010) at the Department of Experimental Plant Ecology,  Radboud University Nijmegen (The Netherlands).
 
 2008-2009
 :	 Short-term Fellow (Oct 2008 - Feb 2009) at the Smithsonian Tropical Research Institute, Barro Colorado Island (Panama). 
@@ -87,18 +87,32 @@ Differential effects of lianas on population growth rates of tropical forest tre
 ---
 
 ### International presentations
-* Workshop at the at the British Ecological Society Symposium "Demography Beyond The Population". March 2015, Sheffield. Speeding Up Ecological and Evolutionary Computations in R; Essentials of High Performance Computing for Biologists.
-* Oral presentation at the British Ecological Society Symposium "Demography Beyond The Population". March 2015, Sheffield. Differential effects of lianas on population growth rates of tropical forest trees.
-* Short Workshop at the Yale School of Forestry & Environmental Studies. December 2014, New Haven. Speeding Up Ecological and Evolutionary Computations in R; Essentials of High Performance Computing for Biologists.
-* Invited speaker at the conference "Everything disperses to Miami", December 14 - December 16, 2012, the University of Miami. The fitness consequences of dispersal for a tropical palm; the role of dispersers, natural enemies and negative density dependence.
-* Invited speaker at the Max Planck Intitute for Demographic Research, workshop on Integral Projection Models, Rostock Germany.  June 2012. A Blueprint for speeding-up calculations in R.
-* Oral presentation at the Netherlands Annual Ecology Meeting. February 2012. Quantifying dispersal kernels through inverse modeling. 
-* Oral presentation at the Smithsonian Tropical Research Institute. Panama. August 2010. Density-dependence in a Neotropical palm: the role of dispersal, seed predation and trophic interactions.
-* Invited speaker at the 5th International Symposium-Workshop on Frugivores and Seed Dispersal. Montpellier, France. June 2010. Measuring dispersal kernels through inverse modeling: density dependence of seed dispersal in a Neotropical palm.
-* Speaker at Plant Population Biology: Crossing Borders. Gfo-conference, Nijmegen, Netherlands. May 2010. Strict mast fruiting for a tropical dipterocarp tree: a demographic cost-benefit analysis
-* Oral presentation at the Smithsonian Tropical Research Institute. Panama. December 2009. Density-dependent dispersal and seed predation in a Neotropical palm.
-* Oral presentation at the workshop on stochastic elasticity and matrix modeling. Nijmegen, the Netherlands, June 2008. Strict masting in the tropical tree species Shorea leprosula: demographic consequences and evolutionary benefit of predator satiation.
-* Oral presentation at the International workshop in Matrix models of plant populations. Sogndal, Norway, June 2007. Demographic consequences of strict masting for two tropical tree species Shorea leprosula and Shorea parvifolia.
+
+2015
+:	Workshop at the at the British Ecological Society Symposium "Demography Beyond The Population". March 2015, Sheffield. Speeding Up Ecological and Evolutionary Computations in R; Essentials of High Performance Computing for Biologists.
+:	 Oral presentation at the British Ecological Society Symposium "Demography Beyond The Population". March 2015, Sheffield. Differential effects of lianas on population growth rates of tropical forest trees.
+
+2014
+:	  Short Workshop at the Yale School of Forestry & Environmental Studies. December 2014, New Haven. Speeding Up Ecological and Evolutionary Computations in R; Essentials of High Performance Computing for Biologists.
+
+2012:
+:	 Invited speaker at the conference "Everything disperses to Miami", December 14 - December 16, 2012, the University of Miami. The fitness consequences of dispersal for a tropical palm; the role of dispersers, natural enemies and negative density dependence.
+:	  Invited speaker at the Max Planck Intitute for Demographic Research, workshop on Integral Projection Models, Rostock Germany.  June 2012. A Blueprint for speeding-up calculations in R.
+:	   Oral presentation at the Netherlands Annual Ecology Meeting. February 2012. Quantifying dispersal kernels through inverse modeling.
+
+2010
+:	 Oral presentation at the Smithsonian Tropical Research Institute. Panama. August 2010. Density-dependence in a Neotropical palm: the role of dispersal, seed predation and trophic interactions.
+:	  Invited speaker at the 5th International Symposium-Workshop on Frugivores and Seed Dispersal. Montpellier, France. June 2010. Measuring dispersal kernels through inverse modeling: density dependence of seed dispersal in a Neotropical palm.
+:	   Speaker at Plant Population Biology: Crossing Borders. Gfo-conference, Nijmegen, Netherlands. May 2010. Strict mast fruiting for a tropical dipterocarp tree: a demographic cost-benefit analysis
+
+2009
+:	 Oral presentation at the Smithsonian Tropical Research Institute. Panama. December 2009. Density-dependent dispersal and seed predation in a Neotropical palm.
+
+2008
+:	  Oral presentation at the workshop on stochastic elasticity and matrix modeling. Nijmegen, the Netherlands, June 2008. Strict masting in the tropical tree species Shorea leprosula: demographic consequences and evolutionary benefit of predator satiation.
+
+2007
+:	   Oral presentation at the International workshop in Matrix models of plant populations. Sogndal, Norway, June 2007. Demographic consequences of strict masting for two tropical tree species Shorea leprosula and Shorea parvifolia.
 
 ---
 
