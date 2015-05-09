@@ -60,7 +60,7 @@ Forestry and Nature Conservation, with specialization in Tropical Forestry.
 2015
 :	7. M. D. Visser, S. M. McMahon, C. Merow, P. M. Dixon, S. Record and E. Jongejans.  Speeding Up Ecological and Evolutionary Computations in R; Essentials of High Performance Computing for Biologists. PLoS Comput Biol 11(3): e1004140. doi:10.1371/journal.pcbi.1004140. 2015.
 
-In prep
+2015, In prep
 :	8. M. D. Visser, M. Bruijning, S. Joseph Wright, Helene C. Muller-Landau,  Eelke Jongejans, Liza S. Comita and Hans de Kroon. Functional traits as predictors of vital rates across the life-cycle of tropical trees. In prep. Functional Ecology.
 :	9. M. D. Visser, S. Joseph Wright, Helene C. Muller-Landau,  Eelke Jongejans, Liza S. Comita, Hans de Kroon and Stefan Schnitzer. 
 Differential effects of lianas on population growth rates of tropical forest trees. In prep.
@@ -69,20 +69,28 @@ Differential effects of lianas on population growth rates of tropical forest tre
 ---
 
 ### About my research
-* Salguero-Gómez, R (2015). Demography to infinity and beyond! Journal of Ecology blog. https://jecologyblog.wordpress.com/2015/04/09/demography-to-infinity-and-beyond/
-* King, B (2011), Smithsonian Tropical Research Institute News. The enemy of my enemy is my friend.1:2
-* Sugden AM (2011) Science Editors' choice. Ecology. The Enemy of My Enemy is my? Science 334:569.
-* Ecological Association of America - young plant population ecologist of the month (October 2011). Featured work: M. D. Visser et al, 2011, Ecology Letters.
-* Kouwen M (2011) Mastjaar overtreft jaarlijkse zaadzetting. Bionieuws 13:6.
-* Sugden AM (2011) Science Editors' choice. Ecology. Why trees skip a year. Science 333:386
-* Rees M (2011) Editor's Choice: Volume 99, Issue 4 (July). Journal of Ecology.
+2015
+:	* Salguero-Gómez, R (2015). Demography to infinity and beyond! Journal of Ecology blog. https://jecologyblog.wordpress.com/2015/04/09/demography-to-infinity-and-beyond/
+
+2011
+:	* King, B (2011), Smithsonian Tropical Research Institute News. The enemy of my enemy is my friend.1:2
+:	* Sugden AM (2011) Science Editors' choice. Ecology. The Enemy of My Enemy is my? Science 334:569.
+:	* Ecological Association of America - young plant population ecologist of the month (October 2011). Featured work: M. D. Visser et al, 2011, Ecology Letters.
+:	* Kouwen M (2011) Mastjaar overtreft jaarlijkse zaadzetting. Bionieuws 13:6.
+:	* Sugden AM (2011) Science Editors' choice. Ecology. Why trees skip a year. Science 333:386
+:	* Rees M (2011) Editor's Choice: Volume 99, Issue 4 (July). Journal of Ecology.
 
 ---
 
 ### Grants and awards
-- Grant: NWO-ALW, What maintains the diversity of tropical tree species? Unravelling the importance of niche and neutrality with a life cycle approach. Co-wrote with Hans de Kroon, Helene Muller-Landau, Eelke Jongejans, S. J. Wright, P.A. Zuidema, P.A. Jansen and S. Tuljapurkar (230k). 2011. 
-- Award: WUF-KLV thesis prize for the best thesis in the life sciences from Wageningen University awarded for my MSc thesis: Density-dependent dispersal and seed predation in a Neotropical palm. 2009.
-- Grant: Smithsonian Tropical Research Institute, short term fellowship awarded for the study: Quantifying density-dependent responses of seed predators in the Neotropical palm Attalea butyracea. ($ 5k). 2008. 
+2011
+:	- Grant: NWO-ALW, What maintains the diversity of tropical tree species? Unravelling the importance of niche and neutrality with a life cycle approach. Co-wrote with Hans de Kroon, Helene Muller-Landau, Eelke Jongejans, S. J. Wright, P.A. Zuidema, P.A. Jansen and S. Tuljapurkar (230k). 2011.
+
+2009
+:	- Award: WUF-KLV thesis prize for the best thesis in the life sciences from Wageningen University awarded for my MSc thesis: Density-dependent dispersal and seed predation in a Neotropical palm. 2009.
+
+2008
+:	- Grant: Smithsonian Tropical Research Institute, short term fellowship awarded for the study: Quantifying density-dependent responses of seed predators in the Neotropical palm Attalea butyracea. ($ 5k). 2008. 
 
 ---
 
