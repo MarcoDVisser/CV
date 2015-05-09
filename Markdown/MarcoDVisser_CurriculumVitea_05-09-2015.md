@@ -60,25 +60,25 @@ Forestry and Nature Conservation, with specialization in Tropical Forestry.
 2015
 :	7. M. D. Visser, S. M. McMahon, C. Merow, P. M. Dixon, S. Record and E. Jongejans.  Speeding Up Ecological and Evolutionary Computations in R; Essentials of High Performance Computing for Biologists. PLoS Comput Biol 11(3): e1004140. doi:10.1371/journal.pcbi.1004140. 2015.
 
-2015, In prep
+In prep
 :	8. M. D. Visser, M. Bruijning, S. Joseph Wright, Helene C. Muller-Landau,  Eelke Jongejans, Liza S. Comita and Hans de Kroon. Functional traits as predictors of vital rates across the life-cycle of tropical trees. In prep. Functional Ecology.
 :	9. M. D. Visser, S. Joseph Wright, Helene C. Muller-Landau,  Eelke Jongejans, Liza S. Comita, Hans de Kroon and Stefan Schnitzer. 
 Differential effects of lianas on population growth rates of tropical forest trees. In prep.
-:	     10. M. D. Visser, H. C. Muller-Landau, S. J. Wright, J. Svenning, P. A. Jansen. Seasonal aggregation of generalist seed predators around preferred fruit trees: consequences for negative density-dependence of seed survival. In preparation for Ecology.
+:	10. M. D. Visser, H. C. Muller-Landau, S. J. Wright, J. Svenning, P. A. Jansen. Seasonal aggregation of generalist seed predators around preferred fruit trees: consequences for negative density-dependence of seed survival. In preparation for Ecology.
 
 ---
 
 ### About my research
 2015
-:	* Salguero-Gómez, R (2015). Demography to infinity and beyond! Journal of Ecology blog. https://jecologyblog.wordpress.com/2015/04/09/demography-to-infinity-and-beyond/
+:	- Salguero-Gómez, R (2015). Demography to infinity and beyond! Journal of Ecology blog. https://jecologyblog.wordpress.com/2015/04/09/demography-to-infinity-and-beyond/
 
 2011
-:	* King, B (2011), Smithsonian Tropical Research Institute News. The enemy of my enemy is my friend.1:2
-:	* Sugden AM (2011) Science Editors' choice. Ecology. The Enemy of My Enemy is my? Science 334:569.
-:	* Ecological Association of America - young plant population ecologist of the month (October 2011). Featured work: M. D. Visser et al, 2011, Ecology Letters.
-:	* Kouwen M (2011) Mastjaar overtreft jaarlijkse zaadzetting. Bionieuws 13:6.
-:	* Sugden AM (2011) Science Editors' choice. Ecology. Why trees skip a year. Science 333:386
-:	* Rees M (2011) Editor's Choice: Volume 99, Issue 4 (July). Journal of Ecology.
+:	- King, B (2011), Smithsonian Tropical Research Institute News. The enemy of my enemy is my friend.1:2
+:	- Sugden AM (2011) Science Editors' choice. Ecology. The Enemy of My Enemy is my? Science 334:569.
+:	- Ecological Association of America - young plant population ecologist of the month (October 2011). Featured work: M. D. Visser et al, 2011, Ecology Letters.
+:	- Kouwen M (2011) Mastjaar overtreft jaarlijkse zaadzetting. Bionieuws 13:6.
+:	- Sugden AM (2011) Science Editors' choice. Ecology. Why trees skip a year. Science 333:386
+:	- Rees M (2011) Editor's Choice: Volume 99, Issue 4 (July). Journal of Ecology.
 
 ---
 
