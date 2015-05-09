@@ -62,8 +62,7 @@ Forestry and Nature Conservation, with specialization in Tropical Forestry.
 
 In prep
 :	8. M. D. Visser, M. Bruijning, S. Joseph Wright, Helene C. Muller-Landau,  Eelke Jongejans, Liza S. Comita and Hans de Kroon. Functional traits as predictors of vital rates across the life-cycle of tropical trees. In prep. Functional Ecology.
-:	9. M. D. Visser, S. Joseph Wright, Helene C. Muller-Landau,  Eelke Jongejans, Liza S. Comita, Hans de Kroon and Stefan Schnitzer. 
-Differential effects of lianas on population growth rates of tropical forest trees. In prep.
+:	9. M. D. Visser, S. Joseph Wright, Helene C. Muller-Landau,  Eelke Jongejans, Liza S. Comita, Hans de Kroon and Stefan Schnitzer. Differential effects of lianas on population growth rates of tropical forest trees. In prep.
 :	10. M. D. Visser, H. C. Muller-Landau, S. J. Wright, J. Svenning, P. A. Jansen. Seasonal aggregation of generalist seed predators around preferred fruit trees: consequences for negative density-dependence of seed survival. In preparation for Ecology.
 
 ---
