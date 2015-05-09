@@ -126,8 +126,9 @@ In prep
 ### Reviewer for scientific journals
 Biotropica, Canadian Journal of Forest Research, Ecology, Ecology and Evolution, Ecology Letters, Journal of Biogeography, Journal of Ecology, Methods in Ecology and Evolution, PLOS computational biology. 
 
+---
 
 ----
-> <marco.d.visser@gmail.com> 
-> Visiting address: Nijmegen, The Netherlands Heyendaalseweg 135
+ <marco.d.visser@gmail.com> 
+ Visiting address: Nijmegen, The Netherlands Heyendaalseweg 135
 ---
