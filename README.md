@@ -5,26 +5,33 @@
 ---
 
 ### Research experience
-- PhD candidate (Apr 2011 - present) at the Department of Experimental Plant Ecology, Radboud University Nijmegen (The Netherlands). 
-- Predoctoral Fellow (Apr 2010 - present) at the Smithsonian Tropical Research Institute, Gamboa (Panama). 
-- Junior researcher (Sept 2009 - Feb 2010) at the Department of Experimental Plant Ecology,  Radboud University Nijmegen (The Netherlands). 
-- Short-term Fellow (Oct 2008 - Feb 2009) at the Smithsonian Tropical Research Institute, Barro Colorado Island (Panama). 
-- MSc. Thesis research (2008-2009) at the Forest Ecology and Forest Management Group, Wageningen University and Smithsonian Tropical Research Institute, Barro Colorado Island, Panama.
-- MSc. Thesis research (2008-2009) at the unit Mathematical and Statistical Methods (Biometris) of Wageningen University. 
-- B.A. Thesis research (2007) at the Forest Research Institute Malaysia, Pasoh Forest Reserve, Malaysia for Larenstein College.
-- Internship (2005) at the Forest Research Institute Malaysia, Kepong, Malaysia.
-- Internship (2004) at the Mammal Research Institute, Polish Academy of Sciences, Bialowieza, Poland.
-- Volunteer (2003) at the Mammal Research Institute, Polish Academy of Sciences, Bialowieza, Poland.
+Since 2011
+:      PhD candidate (Apr 2011 - present) at the Department of Experimental Plant Ecology, Radboud University Nijmegen (The Netherlands). 
+:      Predoctoral Fellow (Apr 2010 - present) at the Smithsonian Tropical Research Institute, Gamboa (Panama).
+2009 - 2010
+:       Junior researcher (Sept 2009 - Feb 2010) at the Department of Experimental Plant Ecology,  Radboud University Nijmegen (The Netherlands).
+2008-2009
+:	 Short-term Fellow (Oct 2008 - Feb 2009) at the Smithsonian Tropical Research Institute, Barro Colorado Island (Panama). 
+:	  MSc. Thesis research (2008-2009) at the Forest Ecology and Forest Management Group, Wageningen University and Smithsonian Tropical Research Institute, Barro Colorado Island, Panama.
+:	   MSc. Thesis research (2008-2009) at the unit Mathematical and Statistical Methods (Biometris) of Wageningen University.
+2007
+:	 B.A. Thesis research (2007) at the Forest Research Institute Malaysia, Pasoh Forest Reserve, Malaysia for Larenstein College.
+2005
+:	 Internship (2005) at the Forest Research Institute Malaysia, Kepong, Malaysia.
+2004
+:	Internship (2004) at the Mammal Research Institute, Polish Academy of Sciences, Bialowieza, Poland.
+2003
+:	 Volunteer (2003) at the Mammal Research Institute, Polish Academy of Sciences, Bialowieza, Poland.
 
 ---
 
 ### Education
-* September, 2009
-: Wageningen University and research centre, M.Sc. (cum laude, highest distinction at WU).
+September, 2009
+: 	   Wageningen University and research centre, M.Sc. (cum laude, highest distinction at WU).
  Forestry and Nature Conservation, with a minor in Mathematics and Statistical Methods.
 
-* September, 2007
-: Larenstein University of Applied Sciences, B.A.
+September, 2007
+: 	   Larenstein University of Applied Sciences, B.A.
 Forestry and Nature Conservation, with specialization in Tropical Forestry.
 
 ---
