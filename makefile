@@ -18,16 +18,16 @@ RNAME = cp '$<' '$@'
 PDOC = pandoc -s --smart '$<' -o '$@' 
 ## for now just rename the md files
 ## I intend to add pandoc code here
-all: $(MD) $(HTML) $(PDF) $(WORD)
+all: $(HTML) $(PDF) $(WORD) $(MD)
 
 #########################
 ## main markdownx
 
-$(MD):$(MASTER)
-	$(RNAME)
-
 $(HTML):$(MASTER) style.css
 	pandoc --standalone -c style.css --from markdown --to html -o '$@' '$<'
+
+$(MD):$(HTML)
+	$(PDOC)
 
 $(PDF): $(HTML)
 	wkhtmltopdf '$<' '$@' 
