@@ -30,9 +30,9 @@ $(MD):$(HTML)
 	$(PDOC)
 
 $(PDF): $(HTML)
-	wkhtmltopdf '$<' '$@' 
+	wkhtmltopdf --page-size 'A3' --encoding 'UTF-8' '$<' '$@' 
 
-$(WORD):$(MASTER)
+$(WORD):$(HTML)
 	$(PDOC)
 
 README.md:$(MD)
