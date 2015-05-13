@@ -10,8 +10,12 @@
 /* Whole document */
 body {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-    width: 800px;
+/*    width: 800px; */
     margin: auto;
+  width: 180mm;
+  height: 277mm;
+  overflow: hidden;
+  page-break-after: always;
     background: #FFFFFF;
     padding: 10px 10px 10px 10px;
 }

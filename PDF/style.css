@@ -10,7 +10,10 @@
 /* Whole document */
 body {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-    width: 800px;
+    width: 180mm;
+    height: 277mm;
+  overflow: hidden;
+  page-break-after: always;
     margin: auto;
     background: #FFFFFF;
     padding: 10px 10px 10px 10px;
@@ -73,6 +76,7 @@ a {
     text-decoration: none;
     color: #397249;
 }
+
 a:hover, a:active {
     background-color: #397249;
     color: #FFFFFF;

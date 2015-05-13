@@ -65,54 +65,56 @@ September, 2007
 ### Publications (inc. submitted/ in preparation)
 
 2011
-:   1\. M. D. Visser, E. Jongejans, M. van Breugel, P. A. Zuidema, Y. Chen,
-    A. R. Kassim, H. de Kroon. 2011. Strict mast fruiting for a tropical
-    dipterocarp tree: A demographic cost-benefit analysis of delayed
-    reproduction and seed predation. Journal of Ecology. 99, 1033-1044.
-:   2\. M. D. Visser, S. Joseph Wright, Helene C. Muller-Landau, Gemma Rutten
-    and Patrick A. Jansen. Tri-trophic interactions affect density
-    dependence of seed fate in a tropical forest palm. 2011, Ecology
-    Letters. 14, 1093-1100.
+:   **1.** **M. D. Visser**, E. Jongejans, M. van Breugel, P. A.
+    Zuidema, Y. Chen, A. R. Kassim, H. de Kroon. 2011. Strict mast
+    fruiting for a tropical dipterocarp tree: A demographic cost-benefit
+    analysis of delayed reproduction and seed predation. Journal of
+    Ecology. 99, 1033-1044.
+:   **2.** **M. D. Visser**, S. Joseph Wright, Helene C. Muller-Landau,
+    Gemma Rutten and Patrick A. Jansen. Tri-trophic interactions affect
+    density dependence of seed fate in a tropical forest palm. 2011,
+    Ecology Letters. 14, 1093-1100.
 
 2012
-:   3\. B. van Putten, M. D. Visser, P. A. Jansen and H. C. Muller-Landau.
-    Distorted- distance models for directional dispersal: a general
-    framework and its application to a wind-dispersed tropical forest trees.
-    Methods in Ecology and Evolution. 2012.
-:   4\. B. T. Hirsch, M. D. Visser, R. Kays and P. A. Jansen. Quantifying
-    seed dispersal kernels from truncated seed-tracking data. Methods in
-    Ecology and Evolution. 2012
+:   **3.** B. van Putten, **M. D. Visser**, P. A. Jansen and H. C.
+    Muller-Landau. Distorted- distance models for directional dispersal:
+    a general framework and its application to a wind-dispersed tropical
+    forest trees. Methods in Ecology and Evolution. 2012.
+:   **4.** B. T. Hirsch, **M. D. Visser**, R. Kays and P. A. Jansen.
+    Quantifying seed dispersal kernels from truncated seed-tracking
+    data. Methods in Ecology and Evolution. 2012
 
 2013
-:   5\. M. D. Visser. aprof: Amdahl’s profiler, directed optimization made
-    easy. R package version 0.1 - 0.2.
+:   **5.** **M. D. Visser**. aprof: Amdahl’s profiler, directed
+    optimization made easy. R package version 0.1 - 0.2.
     http://cran.r-project.org/web/packages/aprof/index.html. 2013.
 
 2014
-:   6\. P. A. Jansen, M. D. Visser, S. J. Wright, G. Rutten, H. C.
-    Muller-Landau. Negative density-dependence of seed dispersal and
+:   **6.** P. A. Jansen, **M. D. Visser**, S. J. Wright, G. Rutten, H.
+    C. Muller-Landau. Negative density-dependence of seed dispersal and
     seedling recruitment in a Neotropical palm. Ecology Letters 17:
     1111–1120. 2014.
 
 2015
-:   7\. M. D. Visser, S. M. McMahon, C. Merow, P. M. Dixon, S. Record and E.
-    Jongejans. Speeding Up Ecological and Evolutionary Computations in R;
-    Essentials of High Performance Computing for Biologists. PLoS Comput
-    Biol 11(3): e1004140. doi:10.1371/journal.pcbi.1004140. 2015.
+:   **7.** **M. D. Visser**, S. M. McMahon, C. Merow, P. M. Dixon, S.
+    Record and E. Jongejans. Speeding Up Ecological and Evolutionary
+    Computations in R; Essentials of High Performance Computing for
+    Biologists. PLoS Comput Biol 11(3): e1004140.
+    doi:10.1371/journal.pcbi.1004140. 2015.
 
 In prep
-:   8\. M. D. Visser, M. Bruijning, S. Joseph Wright, Helene C.
+:   **8.** **M. D. Visser**, M. Bruijning, S. Joseph Wright, Helene C.
     Muller-Landau, Eelke Jongejans, Liza S. Comita and Hans de Kroon.
-    Functional traits as predictors of vital rates across the life-cycle of
-    tropical trees. In prep. Functional Ecology.
-:   9\. M. D. Visser, S. Joseph Wright, Helene C. Muller-Landau, Eelke
-    Jongejans, Liza S. Comita, Hans de Kroon and Stefan Schnitzer.
-    Differential effects of lianas on population growth rates of tropical
-    forest trees. In prep.
-:   10\. M. D. Visser, H. C. Muller-Landau, S. J. Wright, J. Svenning, P. A.
-    Jansen. Seasonal aggregation of generalist seed predators around
-    preferred fruit trees: consequences for negative density-dependence of
-    seed survival. In preparation for Ecology.
+    Functional traits as predictors of vital rates across the life-cycle
+    of tropical trees. In prep. Functional Ecology.
+:   **9.** **M. D. Visser**, S. Joseph Wright, Helene C. Muller-Landau,
+    Eelke Jongejans, Liza S. Comita, Hans de Kroon and Stefan Schnitzer.
+    Differential effects of lianas on population growth rates of
+    tropical forest trees. In prep.
+:   **10**. **M. D. Visser**, H. C. Muller-Landau, S. J. Wright, J.
+    Svenning, P. A. Jansen. Seasonal aggregation of generalist seed
+    predators around preferred fruit trees: consequences for negative
+    density-dependence of seed survival. In preparation for Ecology.
 
 ------------------------------------------------------------------------
 
@@ -233,7 +235,8 @@ Methods in Ecology and Evolution, PLOS computational biology.
 
 ------------------------------------------------------------------------
 
-  ----------------------------------------------------------------
-  marco.d.visser at gmail dot com
-  Visiting address: Nijmegen, The Netherlands Heyendaalseweg 135
-  ----------------------------------------------------------------
+> marco.d.visser at gmail dot com
+> ,\
+> Visiting address: Nijmegen, The Netherlands Heyendaalseweg 135
+
+------------------------------------------------------------------------
