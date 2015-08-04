@@ -102,11 +102,11 @@ September, 2007
     Biologists. PLoS Comput Biol 11(3): e1004140.
     doi:10.1371/journal.pcbi.1004140. 2015.
 
-In prep
+In prep/revisions/accepted
 :   **8.** **M. D. Visser**, M. Bruijning, S. Joseph Wright, Helene C.
     Muller-Landau, Eelke Jongejans, Liza S. Comita and Hans de Kroon.
     Functional traits as predictors of vital rates across the life-cycle
-    of tropical trees. In prep. Functional Ecology.
+    of tropical trees. Minor revision. Functional Ecology.
 :   **9.** **M. D. Visser**, S. Joseph Wright, Helene C. Muller-Landau,
     Eelke Jongejans, Liza S. Comita, Hans de Kroon and Stefan Schnitzer.
     Differential effects of lianas on population growth rates of
@@ -124,6 +124,8 @@ In prep
 :   - Salguero-Gómez, R (2015). Demography to infinity and beyond!
     Journal of Ecology blog.
     https://jecologyblog.wordpress.com/2015/04/09/demography-to-infinity-and-beyond/
+:   - Wang, I (2015). Recommendation F1000 prime.
+    http://f1000.com/prime/725405210
 
 2011
 :   - King, B (2011), Smithsonian Tropical Research Institute News. The
@@ -145,20 +147,20 @@ In prep
 ### Grants and awards
 
 2011
-:   - Grant: NWO-ALW, What maintains the diversity of tropical tree
+:   - **Grant**: NWO-ALW, What maintains the diversity of tropical tree
     species? Unravelling the importance of niche and neutrality with a
     life cycle approach. Co-wrote with Hans de Kroon, Helene
     Muller-Landau, Eelke Jongejans, S. J. Wright, P.A. Zuidema, P.A.
     Jansen and S. Tuljapurkar (230k). 2011.
 
 2009
-:   - Award: WUF-KLV thesis prize for the best thesis in the life
+:   - **Award**: WUF-KLV thesis prize for the best thesis in the life
     sciences from Wageningen University awarded for my MSc thesis:
     Density-dependent dispersal and seed predation in a Neotropical
     palm. 2009.
 
 2008
-:   - Grant: Smithsonian Tropical Research Institute, short term
+:   - **Grant**: Smithsonian Tropical Research Institute, short term
     fellowship awarded for the study: Quantifying density-dependent
     responses of seed predators in the Neotropical palm Attalea
     butyracea. (\$ 5k). 2008.
@@ -168,60 +170,60 @@ In prep
 ### International presentations
 
 2015
-:   Workshop at the at the British Ecological Society Symposium
+:   **Workshop** at the at the British Ecological Society Symposium
     “Demography Beyond The Population”. March 2015, Sheffield. Speeding
     Up Ecological and Evolutionary Computations in R; Essentials of High
     Performance Computing for Biologists.
-:   Oral presentation at the British Ecological Society Symposium
-    “Demography Beyond The Population”. March 2015, Sheffield.
-    Differential effects of lianas on population growth rates of
-    tropical forest trees.
+:   **Speaker** at the British Ecological Society Symposium “Demography
+    Beyond The Population”. March 2015, Sheffield. Differential effects
+    of lianas on population growth rates of tropical forest trees.
 
 2014
-:   Short Workshop at the Yale School of Forestry & Environmental
+:   **Short Workshop** at the Yale School of Forestry & Environmental
     Studies. December 2014, New Haven. Speeding Up Ecological and
     Evolutionary Computations in R; Essentials of High Performance
     Computing for Biologists.
 
 2012:
-:   Invited speaker at the conference “Everything disperses to Miami”,
-    December 14 - December 16, 2012, the University of Miami. The
-    fitness consequences of dispersal for a tropical palm; the role of
-    dispersers, natural enemies and negative density dependence.
-:   Invited speaker at the Max Planck Intitute for Demographic Research,
-    workshop on Integral Projection Models, Rostock Germany. June 2012.
-    A Blueprint for speeding-up calculations in R.
-:   Oral presentation at the Netherlands Annual Ecology Meeting.
+:   **Invited speaker** at the conference “Everything disperses to
+    Miami”, December 14 - December 16, 2012, the University of Miami.
+    The fitness consequences of dispersal for a tropical palm; the role
+    of dispersers, natural enemies and negative density dependence.
+:   **Invited speaker** at the Max Planck Intitute for Demographic
+    Research, workshop on Integral Projection Models, Rostock Germany.
+    June 2012. A Blueprint for speeding-up calculations in R.
+:   **Oral presentation** at the Netherlands Annual Ecology Meeting.
     February 2012. Quantifying dispersal kernels through inverse
     modeling.
 
 2010
-:   Oral presentation at the Smithsonian Tropical Research Institute.
-    Panama. August 2010. Density-dependence in a Neotropical palm: the
-    role of dispersal, seed predation and trophic interactions.
-:   Invited speaker at the 5th International Symposium-Workshop on
+:   **Oral presentation** at the Smithsonian Tropical Research
+    Institute. Panama. August 2010. Density-dependence in a Neotropical
+    palm: the role of dispersal, seed predation and trophic
+    interactions.
+:   **Invited speaker** at the 5th International Symposium-Workshop on
     Frugivores and Seed Dispersal. Montpellier, France. June 2010.
     Measuring dispersal kernels through inverse modeling: density
     dependence of seed dispersal in a Neotropical palm.
-:   Speaker at Plant Population Biology: Crossing Borders.
+:   **Speaker** at Plant Population Biology: Crossing Borders.
     Gfo-conference, Nijmegen, Netherlands. May 2010. Strict mast
     fruiting for a tropical dipterocarp tree: a demographic cost-benefit
     analysis
 
 2009
-:   Oral presentation at the Smithsonian Tropical Research Institute.
-    Panama. December 2009. Density-dependent dispersal and seed
-    predation in a Neotropical palm.
+:   **Oral presentation** at the Smithsonian Tropical Research
+    Institute. Panama. December 2009. Density-dependent dispersal and
+    seed predation in a Neotropical palm.
 
 2008
-:   Oral presentation at the workshop on stochastic elasticity and
+:   **Oral presentation** at the workshop on stochastic elasticity and
     matrix modeling. Nijmegen, the Netherlands, June 2008. Strict
     masting in the tropical tree species Shorea leprosula: demographic
     consequences and evolutionary benefit of predator satiation.
 
 2007
-:   Oral presentation at the International workshop in Matrix models of
-    plant populations. Sogndal, Norway, June 2007. Demographic
+:   **Oral presentation** at the International workshop in Matrix models
+    of plant populations. Sogndal, Norway, June 2007. Demographic
     consequences of strict masting for two tropical tree species Shorea
     leprosula and Shorea parvifolia.
 
@@ -231,7 +233,8 @@ In prep
 
 Biotropica, Canadian Journal of Forest Research, Ecology, Ecology and
 Evolution, Ecology Letters, Journal of Biogeography, Journal of Ecology,
-Methods in Ecology and Evolution, PLOS computational biology.
+Methods in Ecology and Evolution, PLOS computational biology, The R
+Journal.
 
 ------------------------------------------------------------------------
 
