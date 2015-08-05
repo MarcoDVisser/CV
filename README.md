@@ -102,11 +102,13 @@ September, 2007
     Biologists. PLoS Comput Biol 11(3): e1004140.
     doi:10.1371/journal.pcbi.1004140. 2015.
 
-In prep/revisions/accepted
+In revision
 :   **8.** **M. D. Visser**, M. Bruijning, S. Joseph Wright, Helene C.
     Muller-Landau, Eelke Jongejans, Liza S. Comita and Hans de Kroon.
     Functional traits as predictors of vital rates across the life-cycle
     of tropical trees. Minor revision. Functional Ecology.
+
+In prep
 :   **9.** **M. D. Visser**, S. Joseph Wright, Helene C. Muller-Landau,
     Eelke Jongejans, Liza S. Comita, Hans de Kroon and Stefan Schnitzer.
     Differential effects of lianas on population growth rates of

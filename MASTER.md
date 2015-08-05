@@ -60,8 +60,10 @@ Forestry and Nature Conservation, with specialization in Tropical Forestry.
 2015
 :	**7.** **M. D. Visser**, S. M. McMahon, C. Merow, P. M. Dixon, S. Record and E. Jongejans.  Speeding Up Ecological and Evolutionary Computations in R; Essentials of High Performance Computing for Biologists. PLoS Comput Biol 11(3): e1004140. doi:10.1371/journal.pcbi.1004140. 2015.
 
-In prep/revisions/accepted
+In revision
 :	**8.** **M. D. Visser**, M. Bruijning, S. Joseph Wright, Helene C. Muller-Landau,  Eelke Jongejans, Liza S. Comita and Hans de Kroon. Functional traits as predictors of vital rates across the life-cycle of tropical trees. Minor revision. Functional Ecology.
+
+In prep
 :	**9.** **M. D. Visser**, S. Joseph Wright, Helene C. Muller-Landau,  Eelke Jongejans, Liza S. Comita, Hans de Kroon and Stefan Schnitzer. Differential effects of lianas on population growth rates of tropical forest trees. In prep.
 :	**10**. **M. D. Visser**, H. C. Muller-Landau, S. J. Wright, J. Svenning, P. A. Jansen. Seasonal aggregation of generalist seed predators around preferred fruit trees: consequences for negative density-dependence of seed survival. In preparation for Ecology.
 
