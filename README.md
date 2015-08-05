@@ -103,10 +103,14 @@ September, 2007
     doi:10.1371/journal.pcbi.1004140. 2015.
 
 In revision
-:   **8.** **M. D. Visser**, M. Bruijning, S. Joseph Wright, Helene C.
-    Muller-Landau, Eelke Jongejans, Liza S. Comita and Hans de Kroon.
+:   **8.** **M. D. Visser**, M. Bruijning, S. J. Wright, H. C.
+    Muller-Landau, E. Jongejans, L. S. Comita and H. de Kroon.
     Functional traits as predictors of vital rates across the life-cycle
     of tropical trees. Minor revision. Functional Ecology.
+:   **9** M. Bruijning, **M. D. Visser**, H. C. Muller-Landau, S. J.
+    Wright, L. S. Comitaǁ, S. P. Hubbell, H. de Kroon, E. Jongejans.
+    Surviving in a cosexual world: a cost-benefit analysis of dioecy in
+    tropical trees. Major revision. American Naturalist.
 
 In prep
 :   **9.** **M. D. Visser**, S. Joseph Wright, Helene C. Muller-Landau,
