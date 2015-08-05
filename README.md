@@ -130,25 +130,29 @@ In prep
 :   - Salguero-Gómez, R (2015). Demography to infinity and beyond!
     Journal of Ecology blog.
     https://jecologyblog.wordpress.com/2015/04/09/demography-to-infinity-and-beyond/
-:   - Wang, I (2015). Recommendation F1000 prime.
-    http://f1000.com/prime/725405210
+:   -   Wang, I (2015). Recommendation F1000 prime.
+        http://f1000.com/prime/725405210
 
 <!-- -->
 
 2011
-:   - King, B (2011), Smithsonian Tropical Research Institute News. The
-    enemy of my enemy is my friend.1:2
 :   - Sugden AM (2011) Science Editors’ choice. Ecology. The Enemy of My
     Enemy is my? Science 334:569.
-:   - Ecological Association of America - young plant population
-    ecologist of the month (October 2011). Featured work: M. D. Visser
-    et al, 2011, Ecology Letters.
-:   - Kouwen M (2011) Mastjaar overtreft jaarlijkse zaadzetting.
-    Bionieuws 13:6.
-:   - Sugden AM (2011) Science Editors’ choice. Ecology. Why trees skip
-    a year. Science 333:386
-:   - Rees M (2011) Editor’s Choice: Volume 99, Issue 4 (July). Journal
-    of Ecology.
+:   -   Sugden AM (2011) Science Editors’ choice. Ecology. Why trees
+        skip a year. Science 333:386
+
+:   -   Rees M (2011) Editor’s Choice: Volume 99, Issue 4 (July).
+        Journal of Ecology.
+
+:   -   King, B (2011), The enemy of my enemy is my friend. Smithsonian
+        Tropical Research Institute News 1:2
+
+:   -   Ecological Society of America - young plant population ecologist
+        of the month (October 2011). Featured work: M. D. Visser et al,
+        2011, Ecology Letters.
+
+:   -   Kouwen M (2011) Mastjaar overtreft jaarlijkse zaadzetting.
+        Bionieuws 13:6.
 
 ------------------------------------------------------------------------
 
