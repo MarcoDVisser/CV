@@ -73,9 +73,8 @@ In prep
 
 ### About my research
 2015
-:	- Salguero-Gómez, R (2015). Demography to infinity and beyond! Journal of Ecology blog. https://jecologyblog.wordpress.com/2015/04/09/demography-to-infinity-and-beyond/
-
-:   - Wang, I (2015). Recommendation F1000 prime. http://f1000.com/prime/725405210 
+:	- **Salguero-Gómez, R** (2015). Demography to infinity and beyond! Journal of Ecology blog. https://jecologyblog.wordpress.com/2015/04/09/demography-to-infinity-and-beyond/
+:   - **Wang, I** (2015). Recommendation F1000 prime. http://f1000.com/prime/725405210 
 
 <!--- uncomment if you want black space again
 &nbsp;
