@@ -52,7 +52,7 @@ Forestry and Nature Conservation, with specialization in Tropical Forestry.
 :	**4.** B. T. Hirsch, **M. D. Visser**, R. Kays and P. A. Jansen.  Quantifying seed dispersal kernels from truncated seed-tracking data. Methods in Ecology and Evolution. 2012
 
 2013
-:	**5.** **M. D. Visser**. aprof: Amdahl's profiler, directed optimization made easy. R package version 0.1 - 0.2. http://cran.r-project.org/web/packages/aprof/index.html. 2013.
+:	**5.** **M. D. Visser**. aprof: Amdahl's profiler, directed optimization made easy. R package version 0.1 - 0.2.5. http://cran.r-project.org/web/packages/aprof/index.html. 2013.
 
 2014
 :	**6.** P. A. Jansen, **M. D. Visser**, S. J. Wright, G. Rutten, H. C.  Muller-Landau. Negative density-dependence of seed dispersal and seedling recruitment in a Neotropical palm. Ecology Letters 17: 1111–1120. 2014.
@@ -76,9 +76,11 @@ In prep
 :	- Salguero-Gómez, R (2015). Demography to infinity and beyond! Journal of Ecology blog. https://jecologyblog.wordpress.com/2015/04/09/demography-to-infinity-and-beyond/
 :   - Wang, I (2015). Recommendation F1000 prime. http://f1000.com/prime/725405210 
 
+<!--- uncomment if you want black space again
 &nbsp;
 
 &nbsp;
+-->
 
 2011
 :	- King, B (2011), Smithsonian Tropical Research Institute News. The enemy of my enemy is my friend.1:2
