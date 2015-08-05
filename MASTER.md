@@ -63,11 +63,11 @@ Forestry and Nature Conservation, with specialization in Tropical Forestry.
 In revision
 :	**8.** **M. D. Visser**, M. Bruijning, S. J. Wright, H. C. Muller-Landau,  E. Jongejans, L. S. Comita and H. de Kroon. Functional traits as predictors of vital rates across the life-cycle of tropical trees. Minor revision. Functional Ecology.
 
-:   **9** M. Bruijning, **M. D. Visser**, H. C. Muller-Landau, S. J. Wright, L. S. Comitaǁ, S. P. Hubbell, H. de Kroon, E. Jongejans. Surviving in a cosexual world: a cost-benefit analysis of dioecy in tropical trees. Major revision. American Naturalist.
+:   **9.** M. Bruijning, **M. D. Visser**, H. C. Muller-Landau, S. J. Wright, L. S. Comita, S. P. Hubbell, H. de Kroon, E. Jongejans. Surviving in a cosexual world: a cost-benefit analysis of dioecy in tropical trees. Major revision. American Naturalist.
 
 In prep
-:	**9.** **M. D. Visser**, S. Joseph Wright, Helene C. Muller-Landau,  Eelke Jongejans, Liza S. Comita, Hans de Kroon and Stefan Schnitzer. Differential effects of lianas on population growth rates of tropical forest trees. In prep.
-:	**10**. **M. D. Visser**, H. C. Muller-Landau, S. J. Wright, J. Svenning, P. A. Jansen. Seasonal aggregation of generalist seed predators around preferred fruit trees: consequences for negative density-dependence of seed survival. In preparation for Ecology.
+:	**10.** **M. D. Visser**, S. Joseph Wright, Helene C. Muller-Landau,  Eelke Jongejans, Liza S. Comita, Hans de Kroon and Stefan Schnitzer. Differential effects of lianas on population growth rates of tropical forest trees. In prep.
+:	**11.** **M. D. Visser**, H. C. Muller-Landau, S. J. Wright, J. Svenning, P. A. Jansen. Seasonal aggregation of generalist seed predators around preferred fruit trees: consequences for negative density-dependence of seed survival. In preparation for Ecology.
 
 ---
 
