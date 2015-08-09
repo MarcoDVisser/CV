@@ -179,7 +179,7 @@ In prep
 
 2015
 :   **Workshop** at the at the Ecological Society of America Annual
-    Meeting 2015. August 2015, Sheffield. Demography in a Continuous
+    Meeting 2015. August 2015, Baltimore. Demography in a Continuous
     World: New Advances in Integral Projection Models (IPMs).
     Co-organizer.
 :   **Workshop** at the at the British Ecological Society Symposium
