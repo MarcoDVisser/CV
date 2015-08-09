@@ -178,6 +178,10 @@ In prep
 ### International presentations
 
 2015
+:   **Workshop** at the at the Ecological Society of America Annual
+    Meeting 2015. August 2015, Sheffield. Demography in a Continuous
+    World: New Advances in Integral Projection Models (IPMs).
+    Co-organizer.
 :   **Workshop** at the at the British Ecological Society Symposium
     “Demography Beyond The Population”. March 2015, Sheffield. Speeding
     Up Ecological and Evolutionary Computations in R; Essentials of High
@@ -200,9 +204,8 @@ In prep
 :   **Invited speaker** at the Max Planck Intitute for Demographic
     Research, workshop on Integral Projection Models, Rostock Germany.
     June 2012. A Blueprint for speeding-up calculations in R.
-:   **Oral presentation** at the Netherlands Annual Ecology Meeting.
-    February 2012. Quantifying dispersal kernels through inverse
-    modeling.
+:   **Speaker** at the Netherlands Annual Ecology Meeting. February
+    2012. Quantifying dispersal kernels through inverse modeling.
 
 2010
 :   **Oral presentation** at the Smithsonian Tropical Research

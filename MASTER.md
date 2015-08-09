@@ -107,6 +107,7 @@ In prep
 ### International presentations
 
 2015
+:	**Workshop** at the at the Ecological Society of America Annual Meeting 2015. August 2015, Sheffield. Demography in a Continuous World: New Advances in Integral Projection Models (IPMs). Co-organizer.
 :	**Workshop** at the at the British Ecological Society Symposium "Demography Beyond The Population". March 2015, Sheffield. Speeding Up Ecological and Evolutionary Computations in R; Essentials of High Performance Computing for Biologists.
 :	 **Speaker** at the British Ecological Society Symposium "Demography Beyond The Population". March 2015, Sheffield. Differential effects of lianas on population growth rates of tropical forest trees.
 
@@ -116,7 +117,7 @@ In prep
 2012:
 :	 **Invited speaker** at the conference "Everything disperses to Miami", December 14 - December 16, 2012, the University of Miami. The fitness consequences of dispersal for a tropical palm; the role of dispersers, natural enemies and negative density dependence.
 :	  **Invited speaker** at the Max Planck Intitute for Demographic Research, workshop on Integral Projection Models, Rostock Germany.  June 2012. A Blueprint for speeding-up calculations in R.
-:	   **Oral presentation** at the Netherlands Annual Ecology Meeting. February 2012. Quantifying dispersal kernels through inverse modeling.
+:	   **Speaker** at the Netherlands Annual Ecology Meeting. February 2012. Quantifying dispersal kernels through inverse modeling.
 
 2010
 :	 **Oral presentation** at the Smithsonian Tropical Research Institute. Panama. August 2010. Density-dependence in a Neotropical palm: the role of dispersal, seed predation and trophic interactions.
