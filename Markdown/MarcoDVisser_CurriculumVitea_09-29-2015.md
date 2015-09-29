@@ -106,7 +106,7 @@ In press
 :   **8.** **M. D. Visser**, M. Bruijning, S. J. Wright, H. C.
     Muller-Landau, E. Jongejans, L. S. Comita and H. de Kroon.
     Functional traits as predictors of vital rates across the life-cycle
-    of tropical trees. Minor revision. Functional Ecology.
+    of tropical trees. Functional Ecology.
 
 In revision
 :   **9.** M. Bruijning, **M. D. Visser**, H. C. Muller-Landau, S. J.
@@ -136,9 +136,9 @@ In prep
 2015
 :   - **Salguero-Gómez, R** (2015). Demography to infinity and beyond!
     Journal of Ecology blog.
-    https://jecologyblog.wordpress.com/2015/04/09/demography-to-infinity-and-beyond/
+    <https://jecologyblog.wordpress.com/2015/04/09/demography-to-infinity-and-beyond/>
 :   - **Wang, I** (2015). Recommendation F1000 prime.
-    http://f1000.com/prime/725405210
+    <http://f1000.com/prime/725405210>
 
 2011
 :   - **Sugden AM** (2011) Science Editors’ choice. Ecology. The Enemy

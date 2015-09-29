@@ -61,7 +61,7 @@ Forestry and Nature Conservation, with specialization in Tropical Forestry.
 :	**7.** **M. D. Visser**, S. M. McMahon, C. Merow, P. M. Dixon, S. Record and E. Jongejans.  Speeding Up Ecological and Evolutionary Computations in R; Essentials of High Performance Computing for Biologists. PLoS Comput Biol 11(3): e1004140. doi:10.1371/journal.pcbi.1004140. 2015.
 
 In press
-:	**8.** **M. D. Visser**, M. Bruijning, S. J. Wright, H. C. Muller-Landau,  E. Jongejans, L. S. Comita and H. de Kroon. Functional traits as predictors of vital rates across the life-cycle of tropical trees. Minor revision. Functional Ecology.
+:	**8.** **M. D. Visser**, M. Bruijning, S. J. Wright, H. C. Muller-Landau,  E. Jongejans, L. S. Comita and H. de Kroon. Functional traits as predictors of vital rates across the life-cycle of tropical trees. Functional Ecology.
 
 In revision
 :   **9.** M. Bruijning, **M. D. Visser**, H. C. Muller-Landau, S. J. Wright, L. S. Comita, S. P. Hubbell, H. de Kroon, E. Jongejans. Surviving in a cosexual world: a cost-benefit analysis of dioecy in tropical trees. Major revision. American Naturalist.
@@ -82,8 +82,8 @@ an integral projection model of density dependence In preparation for Ecology Le
 &nbsp;
 
 2015
-:	- **Salguero-Gómez, R** (2015). Demography to infinity and beyond! Journal of Ecology blog. https://jecologyblog.wordpress.com/2015/04/09/demography-to-infinity-and-beyond/
-:   - **Wang, I** (2015). Recommendation F1000 prime. http://f1000.com/prime/725405210 
+:	- **Salguero-Gómez, R** (2015). Demography to infinity and beyond! Journal of Ecology blog. <https://jecologyblog.wordpress.com/2015/04/09/demography-to-infinity-and-beyond/>
+:   - **Wang, I** (2015). Recommendation F1000 prime. <http://f1000.com/prime/725405210>
 
 2011
 :	- **Sugden AM** (2011) Science Editors' choice. Ecology. The Enemy of My Enemy is my? Science 334:569.
