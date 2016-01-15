@@ -122,16 +122,16 @@ In prep
 :   **11.** **M. D. Visser**, S. Joseph Wright, Helene C. Muller-Landau,
     Gemma Rutten and Patrick A. Jansen. Constraints on the performance
     of a common tropical palm: an integral projection model of density
-    dependence In preparation for Ecology Letters.
+    dependence. In preparation for Ecology Letters.
 :   **12.** **M. D. Visser**, Helene C. Muller-Landau, Eelke Jongejans,
     Liza S. Comita, Hans de Kroon and S. Joseph Wright. Principal
     drivers of tropical tree population dynamics. In prep for Ecology.
 
 ------------------------------------------------------------------------
 
-### About my research
+       
 
-   
+### About my research
 
 2015
 :   - **Salguero-Gómez, R** (2015). Demography to infinity and beyond!
@@ -187,6 +187,9 @@ In prep
     October 2015, Lunteren. Speeding Up Ecological and Evolutionary
     Computations in R; Essentials of High Performance Computing for
     Biologists. Organizer.
+:   **Speaker** at the at the Ecological Society of America Annual
+    Meeting 2015. August 2015, Baltimore. Differential effects of lianas
+    on population growth rates of tropical forest trees.
 :   **Workshop** at the at the Ecological Society of America Annual
     Meeting 2015. August 2015, Baltimore. Demography in a Continuous
     World: New Advances in Integral Projection Models (IPMs).
@@ -217,10 +220,6 @@ In prep
     2012. Quantifying dispersal kernels through inverse modeling.
 
 2010
-:   **Oral presentation** at the Smithsonian Tropical Research
-    Institute. Panama. August 2010. Density-dependence in a Neotropical
-    palm: the role of dispersal, seed predation and trophic
-    interactions.
 :   **Invited speaker** at the 5th International Symposium-Workshop on
     Frugivores and Seed Dispersal. Montpellier, France. June 2010.
     Measuring dispersal kernels through inverse modeling: density

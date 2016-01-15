@@ -1,13 +1,23 @@
 ---
-generator: pandoc
 ...
 
 Marco D. Visser
 ===============
 
-### *PhD candidate at Radboud University Nijmegen*
+* * * * *
 
-------------------------------------------------------------------------
+*PhD candidate at Radboud University Nijmegen*. Visiting address:
+Nijmegen, The Netherlands Heyendaalseweg 135.
+
+m.visser at science dot ru dot nl
+
+-
+
+marco.d.visser at gmail dot com
+
+[https://github.com/MarcoDVisser](https://github.com/MarcoDVisser)
+
+* * * * *
 
 ### Research experience
 
@@ -47,7 +57,7 @@ Since 2011
 :   Volunteer (2003) at the Mammal Research Institute, Polish Academy of
     Sciences, Bialowieza, Poland.
 
-------------------------------------------------------------------------
+* * * * *
 
 ### Education
 
@@ -60,7 +70,7 @@ September, 2007
 :   Larenstein University of Applied Sciences, B.A. Forestry and Nature
     Conservation, with specialization in Tropical Forestry.
 
-------------------------------------------------------------------------
+* * * * *
 
 ### Publications (inc. submitted/ in preparation)
 
@@ -69,7 +79,7 @@ September, 2007
     Zuidema, Y. Chen, A. R. Kassim, H. de Kroon. 2011. Strict mast
     fruiting for a tropical dipterocarp tree: A demographic cost-benefit
     analysis of delayed reproduction and seed predation. Journal of
-    Ecology. 99, 1033-1044.
+    Ecology. 99, 1033-1044.\
 :   **2.** **M. D. Visser**, S. Joseph Wright, Helene C. Muller-Landau,
     Gemma Rutten and Patrick A. Jansen. Tri-trophic interactions affect
     density dependence of seed fate in a tropical forest palm. 2011,
@@ -86,7 +96,7 @@ September, 2007
 
 2013
 :   **5.** **M. D. Visser**. aprof: Amdahl’s profiler, directed
-    optimization made easy. R package version 0.1 - 0.2.5.
+    optimization made easy. R package version 0.1 - 0.3.1.
     http://cran.r-project.org/web/packages/aprof/index.html. 2013.
 
 2014
@@ -122,63 +132,63 @@ In prep
 :   **11.** **M. D. Visser**, S. Joseph Wright, Helene C. Muller-Landau,
     Gemma Rutten and Patrick A. Jansen. Constraints on the performance
     of a common tropical palm: an integral projection model of density
-    dependence In preparation for Ecology Letters.
+    dependence. In preparation for Ecology Letters.
 :   **12.** **M. D. Visser**, Helene C. Muller-Landau, Eelke Jongejans,
-    Liza S. Comita, Hans de Kroon and S. Joseph Wright. Principal
-    drivers of tropical tree population dynamics. In prep for Ecology.
+    Liza S. Comita, Hans de Kroon and S. Joseph Wright. The comparative
+    demography of tropical trees. In prep for Ecology.
 
-------------------------------------------------------------------------
+* * * * *
+
+       
 
 ### About my research
 
-   
-
 2015
-:   - **Salguero-Gómez, R** (2015). Demography to infinity and beyond!
+:   **Salguero-Gómez, R** (2015). Demography to infinity and beyond!
     Journal of Ecology blog.
-    <https://jecologyblog.wordpress.com/2015/04/09/demography-to-infinity-and-beyond/>
-:   - **Wang, I** (2015). Recommendation F1000 prime.
-    <http://f1000.com/prime/725405210>
+    [https://jecologyblog.wordpress.com/2015/04/09/demography-to-infinity-and-beyond/](https://jecologyblog.wordpress.com/2015/04/09/demography-to-infinity-and-beyond/)
+:   **Wang, I** (2015). Recommendation F1000 prime.
+    [http://f1000.com/prime/725405210](http://f1000.com/prime/725405210)
 
 2011
-:   - **Sugden AM** (2011) Science Editors’ choice. Ecology. The Enemy
-    of My Enemy is my? Science 334:569.
-:   - **Sugden AM** (2011) Science Editors’ choice. Ecology. Why trees
+:   **Sugden AM** (2011) Science Editors’ choice. Ecology. The Enemy of
+    My Enemy is my? Science 334:569.
+:   **Sugden AM** (2011) Science Editors’ choice. Ecology. Why trees
     skip a year. Science 333:386
-:   - **Rees M** (2011) Editor’s Choice: Volume 99, Issue 4 (July).
+:   **Rees M** (2011) Editor’s Choice: Volume 99, Issue 4 (July).
     Journal of Ecology.
-:   - **King, B** (2011), The enemy of my enemy is my friend.
-    Smithsonian Tropical Research Institute News 1:2
-:   - **Ecological Society of America** - young plant population
-    ecologist of the month (October 2011). Featured work: M. D. Visser
-    et al, 2011, Ecology Letters.
-:   - **Kouwen M** (2011) Mastjaar overtreft jaarlijkse zaadzetting.
+:   **King, B** (2011), The enemy of my enemy is my friend. Smithsonian
+    Tropical Research Institute News 1:2
+:   **Ecological Society of America** - young plant population ecologist
+    of the month (October 2011). Featured work: M. D. Visser et al,
+    2011, Ecology Letters.
+:   **Kouwen M** (2011) Mastjaar overtreft jaarlijkse zaadzetting.
     Bionieuws 13:6.
 
-------------------------------------------------------------------------
+* * * * *
 
 ### Grants and awards
 
 2011
-:   - **Grant**: NWO-ALW, What maintains the diversity of tropical tree
-    species? Unravelling the importance of niche and neutrality with a
-    life cycle approach. Co-wrote with Hans de Kroon, Helene
-    Muller-Landau, Eelke Jongejans, S. J. Wright, P.A. Zuidema, P.A.
-    Jansen and S. Tuljapurkar (230k).
+:   -   **Grant**: NWO-ALW, What maintains the diversity of tropical
+        tree species? Unravelling the importance of niche and neutrality
+        with a life cycle approach. Co-wrote with Hans de Kroon, Helene
+        Muller-Landau, Eelke Jongejans, S. J. Wright, P.A. Zuidema, P.A.
+        Jansen and S. Tuljapurkar (230k).
 
 2009
-:   - **Award**: WUF-KLV thesis prize for the best thesis in the life
-    sciences from Wageningen University awarded for my MSc thesis:
-    Density-dependent dispersal and seed predation in a Neotropical
-    palm.
+:   -   **Award**: WUF-KLV thesis prize for the best thesis in the life
+        sciences from Wageningen University awarded for my MSc thesis:
+        Density-dependent dispersal and seed predation in a Neotropical
+        palm.
 
 2008
-:   - **Grant**: Smithsonian Tropical Research Institute, short term
-    fellowship awarded for the study: Quantifying density-dependent
-    responses of seed predators in the Neotropical palm Attalea
-    butyracea. (\$ 5k).
+:   -   **Grant**: Smithsonian Tropical Research Institute, short term
+        fellowship awarded for the study: Quantifying density-dependent
+        responses of seed predators in the Neotropical palm Attalea
+        butyracea. (\$ 5k).
 
-------------------------------------------------------------------------
+* * * * *
 
 ### International presentations
 
@@ -187,6 +197,9 @@ In prep
     October 2015, Lunteren. Speeding Up Ecological and Evolutionary
     Computations in R; Essentials of High Performance Computing for
     Biologists. Organizer.
+:   **Speaker** at the at the Ecological Society of America Annual
+    Meeting 2015. August 2015, Baltimore. Differential effects of lianas
+    on population growth rates of tropical forest trees.
 :   **Workshop** at the at the Ecological Society of America Annual
     Meeting 2015. August 2015, Baltimore. Demography in a Continuous
     World: New Advances in Integral Projection Models (IPMs).
@@ -217,10 +230,6 @@ In prep
     2012. Quantifying dispersal kernels through inverse modeling.
 
 2010
-:   **Oral presentation** at the Smithsonian Tropical Research
-    Institute. Panama. August 2010. Density-dependence in a Neotropical
-    palm: the role of dispersal, seed predation and trophic
-    interactions.
 :   **Invited speaker** at the 5th International Symposium-Workshop on
     Frugivores and Seed Dispersal. Montpellier, France. June 2010.
     Measuring dispersal kernels through inverse modeling: density
@@ -247,7 +256,7 @@ In prep
     consequences of strict masting for two tropical tree species Shorea
     leprosula and Shorea parvifolia.
 
-------------------------------------------------------------------------
+* * * * *
 
 ### Reviewer for scientific journals
 
@@ -256,10 +265,4 @@ Evolution, Ecology Letters, Journal of Biogeography, Journal of Ecology,
 Methods in Ecology and Evolution, PLOS computational biology, The R
 Journal.
 
-------------------------------------------------------------------------
-
-> marco.d.visser at gmail dot com
-> - <https://github.com/MarcoDVisser> - Visiting address: Nijmegen, The
-> Netherlands Heyendaalseweg 135
-
-------------------------------------------------------------------------
+* * * * *

@@ -1,6 +1,14 @@
 # Marco D. Visser
 
-### *PhD candidate at Radboud University Nijmegen*
+---
+
+
+*PhD candidate at Radboud University Nijmegen*.
+Visiting address: Nijmegen, The Netherlands Heyendaalseweg 135.
+<m.visser@science.ru.nl> - <marco.d.visser@gmail.com>
+
+
+<https://github.com/MarcoDVisser>
 
 ---
 
@@ -33,12 +41,10 @@ Since 2011
 
 ### Education
 September, 2009
-: 	   Wageningen University and research centre, M.Sc. (cum laude, highest distinction at WU).
- Forestry and Nature Conservation, with a minor in Mathematics and Statistical Methods.
+: 	   Wageningen University and research centre, M.Sc. (cum laude, highest distinction at WU). Forestry and Nature Conservation, with a minor in Mathematics and Statistical Methods.
 
 September, 2007
-: 	   Larenstein University of Applied Sciences, B.A.
-Forestry and Nature Conservation, with specialization in Tropical Forestry.
+: 	   Larenstein University of Applied Sciences, B.A. Forestry and Nature Conservation, with specialization in Tropical Forestry.
 
 ---
 
@@ -52,7 +58,7 @@ Forestry and Nature Conservation, with specialization in Tropical Forestry.
 :	**4.** B. T. Hirsch, **M. D. Visser**, R. Kays and P. A. Jansen.  Quantifying seed dispersal kernels from truncated seed-tracking data. Methods in Ecology and Evolution. 2012
 
 2013
-:	**5.** **M. D. Visser**. aprof: Amdahl's profiler, directed optimization made easy. R package version 0.1 - 0.2.5. http://cran.r-project.org/web/packages/aprof/index.html. 2013.
+:	**5.** **M. D. Visser**. aprof: Amdahl's profiler, directed optimization made easy. R package version 0.1 - 0.3.1. http://cran.r-project.org/web/packages/aprof/index.html. 2013.
 
 2014
 :	**6.** P. A. Jansen, **M. D. Visser**, S. J. Wright, G. Rutten, H. C.  Muller-Landau. Negative density-dependence of seed dispersal and seedling recruitment in a Neotropical palm. Ecology Letters 17: 1111–1120. 2014.
@@ -67,31 +73,33 @@ In revision
 :   **9.** M. Bruijning, **M. D. Visser**, H. C. Muller-Landau, S. J. Wright, L. S. Comita, S. P. Hubbell, H. de Kroon, E. Jongejans. Surviving in a cosexual world: a cost-benefit analysis of dioecy in tropical trees. Major revision. American Naturalist.
 
 In prep
-:	**10.** **M. D. Visser**, S. Joseph Wright, Helene C. Muller-Landau,  Eelke Jongejans, Liza S. Comita, Hans de Kroon and Stefan Schnitzer. Differential effects of lianas on population growth rates of tropical forest trees. In prep for  Ecology Letters.
-:   **11.** **M. D. Visser**, S. Joseph Wright, Helene C. Muller-Landau, Gemma Rutten and Patrick A. Jansen. Constraints on the performance of a common tropical palm: 
-an integral projection model of density dependence In preparation for Ecology Letters.
-:	**12.** **M. D. Visser**,  Helene C. Muller-Landau,  Eelke Jongejans, Liza S. Comita, Hans de Kroon and S. Joseph Wright. Principal drivers of tropical tree population dynamics. In prep for Ecology.
+:	**10.** **M. D. Visser**, S. Joseph Wright, Helene C. Muller-Landau,  Eelke Jongejans, Liza S. Comita, Hans de Kroon and Stefan Schnitzer. Differential effects of lianas on population growth rates of tropical forest trees. In prep for Ecology Letters.
+:   **11.** **M. D. Visser**, S. Joseph Wright, Helene C. Muller-Landau, Gemma Rutten and Patrick A. Jansen. Constraints on the performance of a common tropical palm: an integral projection model of density dependence. In preparation for Ecology Letters.
+:	**12.** **M. D. Visser**,  Helene C. Muller-Landau,  Eelke Jongejans, Liza S. Comita, Hans de Kroon and S. Joseph Wright. The comparative demography of tropical trees. In prep for Ecology.
 
 ---
 
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+
 ### About my research
-<!--- uncomment if you want black space again
+<!--- uncomment if you want black space again.
 &nbsp;
 -->
-&nbsp;
-&nbsp;
 
 2015
-:	- **Salguero-Gómez, R** (2015). Demography to infinity and beyond! Journal of Ecology blog. <https://jecologyblog.wordpress.com/2015/04/09/demography-to-infinity-and-beyond/>
-:   - **Wang, I** (2015). Recommendation F1000 prime. <http://f1000.com/prime/725405210>
+:	 **Salguero-Gómez, R** (2015). Demography to infinity and beyond! Journal of Ecology blog. <https://jecologyblog.wordpress.com/2015/04/09/demography-to-infinity-and-beyond/>
+:    **Wang, I** (2015). Recommendation F1000 prime. <http://f1000.com/prime/725405210>
 
 2011
-:	- **Sugden AM** (2011) Science Editors' choice. Ecology. The Enemy of My Enemy is my? Science 334:569.
-:	- **Sugden AM** (2011) Science Editors' choice. Ecology. Why trees skip a year. Science 333:386
-:	- **Rees M** (2011) Editor's Choice: Volume 99, Issue 4 (July). Journal of Ecology.
-:	- **King, B** (2011), The enemy of my enemy is my friend. Smithsonian Tropical Research Institute News 1:2
-:	- **Ecological Society of America** - young plant population ecologist of the month (October 2011). Featured work: M. D. Visser et al, 2011, Ecology Letters.
-:	- **Kouwen M** (2011) Mastjaar overtreft jaarlijkse zaadzetting. Bionieuws 13:6.
+:	 **Sugden AM** (2011) Science Editors' choice. Ecology. The Enemy of My Enemy is my? Science 334:569.
+:	 **Sugden AM** (2011) Science Editors' choice. Ecology. Why trees skip a year. Science 333:386
+:	 **Rees M** (2011) Editor's Choice: Volume 99, Issue 4 (July). Journal of Ecology.
+:	 **King, B** (2011), The enemy of my enemy is my friend. Smithsonian Tropical Research Institute News 1:2
+:	 **Ecological Society of America** - young plant population ecologist of the month (October 2011). Featured work: M. D. Visser et al, 2011, Ecology Letters.
+:	 **Kouwen M** (2011) Mastjaar overtreft jaarlijkse zaadzetting. Bionieuws 13:6.
 
 ---
 
@@ -111,7 +119,8 @@ an integral projection model of density dependence In preparation for Ecology Le
 
 2015
 :	**Workshop** at the Evolutionary Demography Society Annual Meeting. October 2015, Lunteren. Speeding Up Ecological and Evolutionary Computations in R; Essentials of High Performance Computing for Biologists. Organizer.
-:	**Workshop** at the at the Ecological Society of America Annual Meeting 2015. August 2015, Baltimore. Demography in a Continuous World: New Advances in Integral Projection Models (IPMs). Co-organizer.
+:	 **Speaker** at the at the Ecological Society of America Annual Meeting 2015. August 2015, Baltimore. Differential effects of lianas on population growth rates of tropical forest trees.
+:	**Workshop** at the at the Ecological Society of America Annual Meeting 2015. August 2015, Baltimore.  Demography in a Continuous World: New Advances in Integral Projection Models (IPMs). Co-organizer.
 :	**Workshop** at the at the British Ecological Society Symposium "Demography Beyond The Population". March 2015, Sheffield. Speeding Up Ecological and Evolutionary Computations in R; Essentials of High Performance Computing for Biologists.
 :	 **Speaker** at the British Ecological Society Symposium "Demography Beyond The Population". March 2015, Sheffield. Differential effects of lianas on population growth rates of tropical forest trees.
 
@@ -124,13 +133,12 @@ an integral projection model of density dependence In preparation for Ecology Le
 :	   **Speaker** at the Netherlands Annual Ecology Meeting. February 2012. Quantifying dispersal kernels through inverse modeling.
 
 2010
-:	 **Oral presentation** at the Smithsonian Tropical Research Institute. Panama. August 2010. Density-dependence in a Neotropical palm: the role of dispersal, seed predation and trophic interactions.
 :	  **Invited speaker** at the 5th International Symposium-Workshop on Frugivores and Seed Dispersal. Montpellier, France. June 2010. Measuring dispersal kernels through inverse modeling: density dependence of seed dispersal in a Neotropical palm.
 :	   **Speaker** at Plant Population Biology: Crossing Borders. Gfo-conference, Nijmegen, Netherlands. May 2010. Strict mast fruiting for a tropical dipterocarp tree: a demographic cost-benefit analysis
 
 2009
 :	 **Oral presentation** at the Smithsonian Tropical Research Institute. Panama. December 2009. Density-dependent dispersal and seed predation in a Neotropical palm.
-
+ 
 2008
 :	  **Oral presentation** at the workshop on stochastic elasticity and matrix modeling. Nijmegen, the Netherlands, June 2008. Strict masting in the tropical tree species Shorea leprosula: demographic consequences and evolutionary benefit of predator satiation.
 
@@ -141,11 +149,5 @@ an integral projection model of density dependence In preparation for Ecology Le
 
 ### Reviewer for scientific journals
 Biotropica, Canadian Journal of Forest Research, Ecology, Ecology and Evolution, Ecology Letters, Journal of Biogeography, Journal of Ecology, Methods in Ecology and Evolution, PLOS computational biology, The R Journal. 
-
----
-
-> <marco.d.visser@gmail.com> -
-> <https://github.com/MarcoDVisser> -
-> Visiting address: Nijmegen, The Netherlands Heyendaalseweg 135
 
 ---
