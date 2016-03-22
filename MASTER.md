@@ -104,6 +104,9 @@ In prep
 ---
 
 ### Grants and awards
+2016
+:	- **Grant**: Academy Ecology Fund. Royal Dutch Academy of Sciences (KNAW), Quantifying the effects of extreme years on tropical tree dynamics: capitalizing a rare El Niño occurrence (6k).
+
 2011
 :	- **Grant**: NWO-ALW, What maintains the diversity of tropical tree species? Unravelling the importance of niche and neutrality with a life cycle approach. Co-wrote with Hans de Kroon, Helene Muller-Landau, Eelke Jongejans, S. J. Wright, P.A. Zuidema, P.A. Jansen and S. Tuljapurkar (230k).
 
@@ -118,6 +121,7 @@ In prep
 ### International presentations
 
 2015
+:	**Workshop** at the British Ecological Society Annual Meeting. December 2015, Edinburgh. Speeding Up Ecological and Evolutionary Computations in R; Essentials of High Performance Computing for Biologists. Organizer.
 :	**Workshop** at the Evolutionary Demography Society Annual Meeting. October 2015, Lunteren. Speeding Up Ecological and Evolutionary Computations in R; Essentials of High Performance Computing for Biologists. Organizer.
 :	 **Speaker** at the at the Ecological Society of America Annual Meeting 2015. August 2015, Baltimore. Differential effects of lianas on population growth rates of tropical forest trees.
 :	**Workshop** at the at the Ecological Society of America Annual Meeting 2015. August 2015, Baltimore.  Demography in a Continuous World: New Advances in Integral Projection Models (IPMs). Co-organizer.
