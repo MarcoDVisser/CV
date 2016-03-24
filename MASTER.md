@@ -72,14 +72,18 @@ In press
 In revision
 :   **9.** M. Bruijning, **M. D. Visser**, H. C. Muller-Landau, S. J. Wright, L. S. Comita, S. P. Hubbell, H. de Kroon, E. Jongejans. Surviving in a cosexual world: a cost-benefit analysis of dioecy in tropical trees. Major revision. American Naturalist.
 
+In review
+:	**10.**  E.J. Francis, H.C. Muller-Landau, S.J. Wright, **M. D. Visser**, Y. Iida,
+A.R. Kassim, C. Fletcher, and S.P. Hubbell. Re-evaluating the functional significance of wood density for interspecific variation in growth and survival in tropical trees. Global Ecology and Biogeography
+:	**11.** **M. D. Visser**, S. Joseph Wright, Helene C. Muller-Landau,  Eelke Jongejans, Liza S. Comita, Hans de Kroon and Stefan Schnitzer. Differential effects of lianas on population growth rates of tropical forest trees. In prep for Ecology Letters.
+
 In prep
-:	**10.** **M. D. Visser**, S. Joseph Wright, Helene C. Muller-Landau,  Eelke Jongejans, Liza S. Comita, Hans de Kroon and Stefan Schnitzer. Differential effects of lianas on population growth rates of tropical forest trees. In prep for Ecology Letters.
-:   **11.** **M. D. Visser**, S. Joseph Wright, Helene C. Muller-Landau, Gemma Rutten and Patrick A. Jansen. Constraints on the performance of a common tropical palm: an integral projection model of density dependence. In preparation for Ecology Letters.
-:	**12.** **M. D. Visser**,  Helene C. Muller-Landau,  Eelke Jongejans, Liza S. Comita, Hans de Kroon and S. Joseph Wright. The comparative demography of tropical trees. In prep for Ecology.
+:   **12.** **M. D. Visser**, S. Joseph Wright, Helene C. Muller-Landau, Gemma Rutten and Patrick A. Jansen. Constraints on the performance of a common tropical palm: an integral projection model of density dependence. In preparation for Ecology Letters.
+:	**13.** **M. D. Visser**,  Helene C. Muller-Landau,  Eelke Jongejans, Liza S. Comita, Hans de Kroon and S. Joseph Wright. Explaining variation among tree species in liana infestation.  In prep for Ecology.
+:	**14.** **M. D. Visser**,  Helene C. Muller-Landau,  Eelke Jongejans, Liza S. Comita, Hans de Kroon and S. Joseph Wright. The comparative demography of tropical trees. In prep for Ecology.
 
 ---
 
-&nbsp;
 &nbsp;
 &nbsp;
 &nbsp;
