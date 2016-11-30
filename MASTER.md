@@ -13,9 +13,9 @@ Visiting address: Nijmegen, The Netherlands Heyendaalseweg 135.
 ---
 
 ### Research experience
-Since 2011
-:      PhD candidate (Apr 2011 - present) at Institute for Water and Wetland Research, Plant Ecology Group, Radboud University Nijmegen (The Netherlands). 
-:      Predoctoral Fellow (Apr 2010 - present) at the Smithsonian Tropical Research Institute, Gamboa (Panama).
+2011 - 2016
+:      PhD candidate (Apr 2011 - Sep 2016) at Institute for Water and Wetland Research, Plant Ecology Group, Radboud University Nijmegen (The Netherlands). 
+:      Predoctoral Fellow (Apr 2010 - Apr 2011) at the Smithsonian Tropical Research Institute, Gamboa (Panama).
 
 2009 - 2010
 :      Junior researcher (Sept 2009 - Feb 2010) at the Department of Experimental Plant Ecology,  Radboud University Nijmegen (The Netherlands).
@@ -40,6 +40,9 @@ Since 2011
 ---
 
 ### Education
+November, 2016
+: 	   Radboud University Nijmegen, PhD (cum laude, highest distinction at RU).
+
 September, 2009
 : 	   Wageningen University and research centre, M.Sc. (cum laude, highest distinction at WU). Forestry and Nature Conservation, with a minor in Mathematics and Statistical Methods.
 
