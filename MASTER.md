@@ -14,7 +14,7 @@ Visiting address: 100 Eno Hall Princeton, NJ  08540, United States.
 
 ### Research experience
 2016 - Present
-:      Postdocorial researcher (Nov 2016 - Present) at Institute for Water and Wetland Research, Plant Ecology Group, Radboud University Nijmegen (The Netherlands). 
+:      Postdocorial researcher (Nov 2016 - Present) at Department of Ecology and Evolutionary Biology, Princeton University (USA). 
 
 
 2011 - 2016
