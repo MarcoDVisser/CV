@@ -44,6 +44,7 @@ Visiting address: 100 Eno Hall Princeton, NJ  08540, United States.
 ---
 
 ### Education
+
 November, 2016
 : 	   Radboud University Nijmegen, PhD (cum laude, highest distinction at RU).
 
