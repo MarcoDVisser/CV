@@ -3,9 +3,9 @@
 ---
 
 
-*PhD candidate at Radboud University Nijmegen*.
-Visiting address: Nijmegen, The Netherlands Heyendaalseweg 135.
-<m.visser@science.ru.nl> - <marco.d.visser@gmail.com>
+*Postdocorial researcher at Princeton University*.
+Visiting address: 100 Eno Hall Princeton, NJ  08540, United States.
+<mvisser@princeton.edu> - <marco.d.visser@gmail.com>
 
 
 <https://github.com/MarcoDVisser>
@@ -13,8 +13,12 @@ Visiting address: Nijmegen, The Netherlands Heyendaalseweg 135.
 ---
 
 ### Research experience
+2016 - Present
+:      Postdocorial researcher (Nov 2016 - Present) at Institute for Water and Wetland Research, Plant Ecology Group, Radboud University Nijmegen (The Netherlands). 
+
+
 2011 - 2016
-:      PhD candidate (Apr 2011 - Sep 2016) at Institute for Water and Wetland Research, Plant Ecology Group, Radboud University Nijmegen (The Netherlands). 
+:      PhD candidate (Apr 2011 - Sep 2016) at Institute for Water and Wetland Research, Plant Ecology Group, Radboud University Nijmegen (The Netherlands).
 :      Predoctoral Fellow (Apr 2010 - Apr 2011) at the Smithsonian Tropical Research Institute, Gamboa (Panama).
 
 2009 - 2010

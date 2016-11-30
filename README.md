@@ -7,10 +7,10 @@ Marco D. Visser
 
 ------------------------------------------------------------------------
 
-*PhD candidate at Radboud University Nijmegen*. Visiting address:
-Nijmegen, The Netherlands Heyendaalseweg 135.
+*Postdocorial researcher at Princeton University*. Visiting address: 100
+Eno Hall Princeton, NJ 08540, United States.
 
-m.visser at science dot ru dot nl
+mvisser at princeton dot edu
 
 -
 
@@ -21,6 +21,11 @@ marco.d.visser at gmail dot com
 ------------------------------------------------------------------------
 
 ### Research experience
+
+2016 - Present
+:   Postdocorial researcher (Nov 2016 - Present) at Institute for Water
+    and Wetland Research, Plant Ecology Group, Radboud University
+    Nijmegen (The Netherlands).
 
 2011 - 2016
 :   PhD candidate (Apr 2011 - Sep 2016) at Institute for Water and
