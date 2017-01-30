@@ -229,6 +229,12 @@ In prep
 
 ### International presentations
 
+2016
+:   **Speaker** at the at the Association for Tropical Biology and
+    Conservation Annual Meeting 2016. June 2016, Montpellier, France.
+    Population-level effects of hunting on dispersal, seed predation and
+    population abundance in the Neotropical palm Attalea butyracea.
+
 2015
 :   **Workshop** at the British Ecological Society Annual Meeting.
     December 2015, Edinburgh. Speeding Up Ecological and Evolutionary
