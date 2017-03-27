@@ -103,10 +103,12 @@ In prep
 <!--- uncomment if you want black space again.
 &nbsp;
 -->
+2016
+:	**Chisholm R**. F1000Prime Recommendation of [Visser MD et al., PLoS Comput Biol 2015, 11(3):e1004140]. In F1000Prime, 21 Jul 2016; DOI: 10.3410/f.725405210.793520972. F1000Prime.com/725405210#eval793520972 
 
 2015
-:	 **Salguero-Gómez, R** (2015). Demography to infinity and beyond! Journal of Ecology blog. <https://jecologyblog.wordpress.com/2015/04/09/demography-to-infinity-and-beyond/>
-:    **Wang, I** (2015). Recommendation F1000 prime. <http://f1000.com/prime/725405210>
+:	 **Salguero-Gómez, R**. Demography to infinity and beyond! Journal of Ecology blog. <https://jecologyblog.wordpress.com/2015/04/09/demography-to-infinity-and-beyond/>
+:    	**Wang I**. F1000Prime Recommendation of [Visser MD et al., PLoS Comput Biol 2015, 11(3):e1004140]. In F1000Prime, 28 Jul 2015; DOI: 10.3410/f.725405210.793508140. F1000Prime.com/725405210#eval793508140 
 
 2011
 :	 **Sugden AM** (2011) Science Editors' choice. Ecology. The Enemy of My Enemy is my? Science 334:569.
