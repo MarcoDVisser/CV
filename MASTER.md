@@ -3,7 +3,7 @@
 ---
 
 
-*Postdocorial researcher at Princeton University*.
+*Postdocorial researcher at Princeton University.*
 Visiting address: 100 Eno Hall Princeton, NJ  08540, United States.
 <mvisser@princeton.edu> - <marco.d.visser@gmail.com>
 

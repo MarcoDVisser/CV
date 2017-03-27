@@ -7,7 +7,7 @@ Marco D. Visser
 
 ------------------------------------------------------------------------
 
-*Postdocorial researcher at Princeton University*. Visiting address: 100
+*Postdocorial researcher at Princeton University.* Visiting address: 100
 Eno Hall Princeton, NJ 08540, United States.
 
 mvisser at princeton dot edu

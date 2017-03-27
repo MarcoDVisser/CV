@@ -33,7 +33,7 @@ $(MD):$(HTML)
 	$(PDOC)
 
 $(PDF): $(HTML)
-	wkhtmltopdf --page-size 'A3' --encoding 'UTF-8' '$<' '$@' 
+	wkhtmltopdf --page-size 'A4' --encoding 'UTF-8' '$<' '$@' 
 
 $(WORD):$(HTML)
 	$(PDOC)
