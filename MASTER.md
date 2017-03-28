@@ -103,20 +103,22 @@ In prep
 <!--- uncomment if you want black space again.
 &nbsp;
 -->
-2016
-:	**Chisholm R**. F1000Prime Recommendation of [Visser MD et al., PLoS Comput Biol 2015, 11(3):e1004140]. In F1000Prime, 21 Jul 2016; DOI: 10.3410/f.725405210.793520972. F1000Prime.com/725405210#eval793520972 
 
+2016
+:	**Chisholm R**. F1000Prime Recommendation of [Visser MD et al., PLoS Comput Biol 2015, 11(3):e1004140]. In F1000Prime, 21 Jul 2016; DOI: 10.3410/f.725405210.793520972. F1000Prime.com/725405210#eval793520972
+ 
 2015
 :	 **Salguero-Gómez, R**. Demography to infinity and beyond! Journal of Ecology blog. <https://jecologyblog.wordpress.com/2015/04/09/demography-to-infinity-and-beyond/>
-:    	**Wang I**. F1000Prime Recommendation of [Visser MD et al., PLoS Comput Biol 2015, 11(3):e1004140]. In F1000Prime, 28 Jul 2015; DOI: 10.3410/f.725405210.793508140. F1000Prime.com/725405210#eval793508140 
+:	**Wang I**. F1000Prime Recommendation of [Visser MD et al., PLoS Comput Biol 2015, 11(3):e1004140]. In F1000Prime, 28 Jul 2015; DOI: 10.3410/f.725405210.793508140.
+F1000Prime.com/725405210#eval793508140 
 
 2011
-:	 **Sugden AM** (2011) Science Editors' choice. Ecology. The Enemy of My Enemy is my? Science 334:569.
-:	 **Sugden AM** (2011) Science Editors' choice. Ecology. Why trees skip a year. Science 333:386
-:	 **Rees M** (2011) Editor's Choice: Volume 99, Issue 4 (July). Journal of Ecology.
-:	 **King, B** (2011), The enemy of my enemy is my friend. Smithsonian Tropical Research Institute News 1:2
-:	 **Ecological Society of America** - young plant population ecologist of the month (October 2011). Featured work: M. D. Visser et al, 2011, Ecology Letters.
-:	 **Kouwen M** (2011) Mastjaar overtreft jaarlijkse zaadzetting. Bionieuws 13:6.
+:	**Sugden AM** (2011) Science Editors' choice. Ecology. The Enemy of My Enemy is my? Science 334:569.
+:	**Sugden AM** (2011) Science Editors' choice. Ecology. Why trees skip a year. Science 333:386
+:	**Rees M** (2011) Editor's Choice: Volume 99, Issue 4 (July). Journal of Ecology.
+:	**King, B** (2011), The enemy of my enemy is my friend. Smithsonian Tropical Research Institute News 1:2
+:	**Ecological Society of America** - young plant population ecologist of the month (October 2011). Featured work: M. D. Visser et al, 2011, Ecology Letters.
+:	**Kouwen M** (2011) Mastjaar overtreft jaarlijkse zaadzetting. Bionieuws 13:6.
 
 ---
 
@@ -171,7 +173,8 @@ In prep
 
 ---
 
-### Reviewer for scientific journals
-Biotropica, Canadian Journal of Forest Research, Ecology, Ecology and Evolution, Ecology Letters, Journal of Biogeography, Journal of Ecology, Methods in Ecology and Evolution, PLOS computational biology, The R Journal. 
+### Reviewer
+*Scientific Journals*: Biotropica, Canadian Journal of Forest Research, Ecology, Ecology and Evolution, Ecology Letters, Ecological Modelling, Journal of Biogeography, Journal of Ecology, Methods in Ecology and Evolution, PLOS computational biology, The R Journal. 
+*National Funds for Scientific Research*: Research Foundation Flanders (FWO).
 
 ---

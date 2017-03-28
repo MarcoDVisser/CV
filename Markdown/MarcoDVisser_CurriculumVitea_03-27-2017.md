@@ -181,7 +181,10 @@ In prep
 :   **Salguero-Gómez, R**. Demography to infinity and beyond! Journal of
     Ecology blog.
     <https://jecologyblog.wordpress.com/2015/04/09/demography-to-infinity-and-beyond/>
-:   **Wang I**. F1000Prime Recommendation of [Visser MD et al., PLoS Comput Biol 2015, 11(3):e1004140]. In F1000Prime, 28 Jul 2015; DOI: 10.3410/f.725405210.793508140. F1000Prime.com/725405210#eval793508140
+:   **Wang I**. F1000Prime Recommendation of \[Visser MD et al., PLoS
+    Comput Biol 2015, 11(3):e1004140\]. In F1000Prime, 28 Jul 2015;
+    DOI: 10.3410/f.725405210.793508140.
+    F1000Prime.com/725405210\#eval793508140
 
 2011
 :   **Sugden AM** (2011) Science Editors’ choice. Ecology. The Enemy of
