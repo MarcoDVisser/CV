@@ -77,15 +77,16 @@ September, 2007
 2016
 :	**8.** **M. D. Visser**, M. Bruijning, S. J. Wright, H. C. Muller-Landau,  E. Jongejans, L. S. Comita and H. de Kroon. Functional traits as predictors of vital rates across the life-cycle of tropical trees. Functional Ecology.
 
-In press
+2017
 :   **9.** M. Bruijning, **M. D. Visser**, H. C. Muller-Landau, S. J. Wright, L. S. Comita, S. P. Hubbell, H. de Kroon, E. Jongejans. Surviving in a cosexual world: a cost-benefit analysis of dioecy in tropical trees. Major revision. American Naturalist.
+:	**10.** M. Bruijning, **Marco D. Visser**, C. A. Hallmann, E. Jongejans. trackdem: Particle Tracking and Demography. R package version 0.1.  https://cran.r-project.org/package=trackdem 2017.
 
-In revision
-:	**10.**  E.J. Francis, H.C. Muller-Landau, S.J. Wright, **M. D. Visser**, Y. Iida,
-A.R. Kassim, C. Fletcher, and S.P. Hubbell. Re-evaluating the functional significance of wood density for interspecific variation in growth and survival in tropical trees. Global Ecology and Biogeography
+In press
+:	**11.** **M. D. Visser**, S. Joseph Wright, Helene C. Muller-Landau,  Eelke Jongejans, Liza S. Comita, Hans de Kroon and Stefan Schnitzer. Differential effects of lianas on population growth rates of tropical forest trees. In prep for Ecology Letters.
 
 In review
-:	**11.** **M. D. Visser**, S. Joseph Wright, Helene C. Muller-Landau,  Eelke Jongejans, Liza S. Comita, Hans de Kroon and Stefan Schnitzer. Differential effects of lianas on population growth rates of tropical forest trees. In prep for Ecology Letters.
+:	**12.**  E.J. Francis, H.C. Muller-Landau, S.J. Wright, **M. D. Visser**, Y. Iida,
+A.R. Kassim, C. Fletcher, and S.P. Hubbell. Re-evaluating the functional significance of wood density for interspecific variation in growth and survival in tropical trees. Global Ecology and Biogeography
 
 In prep
 :   **12.** **M. D. Visser**, S. Joseph Wright, Helene C. Muller-Landau, Gemma Rutten and Patrick A. Jansen. Constraints on the performance of a common tropical palm: an integral projection model of density dependence. In preparation for Ecology Letters.
