@@ -78,11 +78,9 @@ September, 2007
 :	**8.** **M. D. Visser**, M. Bruijning, S. J. Wright, H. C. Muller-Landau,  E. Jongejans, L. S. Comita and H. de Kroon. Functional traits as predictors of vital rates across the life-cycle of tropical trees. Functional Ecology.
 
 2017
-:   **9.** M. Bruijning, **M. D. Visser**, H. C. Muller-Landau, S. J. Wright, L. S. Comita, S. P. Hubbell, H. de Kroon, E. Jongejans. Surviving in a cosexual world: a cost-benefit analysis of dioecy in tropical trees. Major revision. American Naturalist.
+:   **9.** M. Bruijning, **M. D. Visser**, H. C. Muller-Landau, S. J. Wright, L. S. Comita, S. P. Hubbell, H. de Kroon, E. Jongejans. Surviving in a cosexual world: a cost-benefit analysis of dioecy in tropical trees. 189:297-314.  American Naturalist.
 :	**10.** M. Bruijning, **Marco D. Visser**, C. A. Hallmann, E. Jongejans. trackdem: Particle Tracking and Demography. R package version 0.1.  https://cran.r-project.org/package=trackdem 2017.
-
-In press
-:	**11.** **M. D. Visser**, S. Joseph Wright, Helene C. Muller-Landau,  Eelke Jongejans, Liza S. Comita, Hans de Kroon and Stefan Schnitzer. Differential effects of lianas on population growth rates of tropical forest trees. In prep for Ecology Letters.
+:	**11.** **M. D. Visser**, S. Joseph Wright, Helene C. Muller-Landau,  Eelke Jongejans, Liza S. Comita, Hans de Kroon and Stefan Schnitzer. Tree species vary widely in their tolerance for liana infestation: A case study of differential host response to generalist parasites. Journal of Ecology.
 
 In review
 :	**12.**  E.J. Francis, H.C. Muller-Landau, S.J. Wright, **M. D. Visser**, Y. Iida,
