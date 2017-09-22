@@ -81,16 +81,15 @@ September, 2007
 :   **9.** M. Bruijning, **M. D. Visser**, H. C. Muller-Landau, S. J. Wright, L. S. Comita, S. P. Hubbell, H. de Kroon, E. Jongejans. Surviving in a cosexual world: a cost-benefit analysis of dioecy in tropical trees. 189:297-314.  American Naturalist.
 :	**10.** M. Bruijning, **Marco D. Visser**, C. A. Hallmann, E. Jongejans. trackdem: Particle Tracking and Demography. R package version 0.1.  https://cran.r-project.org/package=trackdem 2017.
 :	**11.** **M. D. Visser**, S. Joseph Wright, Helene C. Muller-Landau,  Eelke Jongejans, Liza S. Comita, Hans de Kroon and Stefan Schnitzer. Tree species vary widely in their tolerance for liana infestation: A case study of differential host response to generalist parasites. Journal of Ecology.
-
-In review
 :	**12.**  E.J. Francis, H.C. Muller-Landau, S.J. Wright, **M. D. Visser**, Y. Iida,
 A.R. Kassim, C. Fletcher, and S.P. Hubbell. Re-evaluating the functional significance of wood density for interspecific variation in growth and survival in tropical trees. Global Ecology and Biogeography
-
+In review
+:   **13.** Nadja Rüger, Liza S. Comita, Richard Condit, Drew Purves, Benjamin Rosenbaum, **Marco D. Visser**, S. Joseph Wright, Christian Wirth. Beyond the fast-slow continuum: A novel trade-off structuring demographic dimensions of tropical trees. Ecology Letters.
 In prep
-:   **12.** **M. D. Visser**, S. Joseph Wright, Helene C. Muller-Landau, Gemma Rutten and Patrick A. Jansen. Constraints on the performance of a common tropical palm: an integral projection model of density dependence. In preparation for Ecology Letters.
-:	**13.** **M. D. Visser**,  Helene C. Muller-Landau,  Eelke Jongejans, Liza S. Comita, Hans de Kroon and S. Joseph Wright. Explaining variation among tree species in liana infestation.  In prep for Ecology.
-:   **14.** **M. Bruijning**, M. D. Visser, C. A. Hallmann, E. Jongejans. Automated particle tracking to obtain population counts and size distributions from videos in R. In prep for Methods in Ecology and Evolution. 
-:	**15.** **M. D. Visser**,  Helene C. Muller-Landau,  Eelke Jongejans, Liza S. Comita, Hans de Kroon and S. Joseph Wright. The comparative demography of tropical trees. In prep for Ecology.
+:   **14.** **M. D. Visser**, S. Joseph Wright, Helene C. Muller-Landau, Gemma Rutten, and Patrick A. Jansen. What determines population density? An evaluation of regulating and limiting factors for a Neotropical palm species. In preparation for Ecology Letters.
+:	**15.** **M. D. Visser**,  Helene C. Muller-Landau,  Eelke Jongejans, Liza S. Comita, Hans de Kroon and S. Joseph Wright. Explaining variation among tree species in liana infestation.  In prep for Ecology.
+:   **16.** M. Bruijning, **M. D. Visser**, C. A. Hallmann, E. Jongejans. Automated particle tracking to obtain population counts and size distributions from videos in R. In prep for Methods in Ecology and Evolution. 
+:	**17.** **M. D. Visser**,  Helene C. Muller-Landau,  Eelke Jongejans, Liza S. Comita, Hans de Kroon and S. Joseph Wright. The comparative demography of tropical trees. In prep for Ecology.
 
 ---
 
