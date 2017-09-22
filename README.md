@@ -146,12 +146,16 @@ September, 2007
     Visser**, Y. Iida, A.R. Kassim, C. Fletcher, and S.P. Hubbell.
     Re-evaluating the functional significance of wood density for
     interspecific variation in growth and survival in tropical trees.
-    Global Ecology and Biogeography In review
+    Global Ecology and Biogeography
+
+In review
 :   **13.** Nadja Rüger, Liza S. Comita, Richard Condit, Drew Purves,
     Benjamin Rosenbaum, **Marco D. Visser**, S. Joseph Wright,
     Christian Wirth. Beyond the fast-slow continuum: A novel trade-off
     structuring demographic dimensions of tropical trees.
-    Ecology Letters. In prep
+    Ecology Letters.
+
+In prep
 :   **14.** **M. D. Visser**, S. Joseph Wright, Helene C. Muller-Landau,
     Gemma Rutten, and Patrick A. Jansen. What determines population
     density? An evaluation of regulating and limiting factors for a

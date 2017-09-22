@@ -83,8 +83,10 @@ September, 2007
 :	**11.** **M. D. Visser**, S. Joseph Wright, Helene C. Muller-Landau,  Eelke Jongejans, Liza S. Comita, Hans de Kroon and Stefan Schnitzer. Tree species vary widely in their tolerance for liana infestation: A case study of differential host response to generalist parasites. Journal of Ecology.
 :	**12.**  E.J. Francis, H.C. Muller-Landau, S.J. Wright, **M. D. Visser**, Y. Iida,
 A.R. Kassim, C. Fletcher, and S.P. Hubbell. Re-evaluating the functional significance of wood density for interspecific variation in growth and survival in tropical trees. Global Ecology and Biogeography
+
 In review
 :   **13.** Nadja Rüger, Liza S. Comita, Richard Condit, Drew Purves, Benjamin Rosenbaum, **Marco D. Visser**, S. Joseph Wright, Christian Wirth. Beyond the fast-slow continuum: A novel trade-off structuring demographic dimensions of tropical trees. Ecology Letters.
+
 In prep
 :   **14.** **M. D. Visser**, S. Joseph Wright, Helene C. Muller-Landau, Gemma Rutten, and Patrick A. Jansen. What determines population density? An evaluation of regulating and limiting factors for a Neotropical palm species. In preparation for Ecology Letters.
 :	**15.** **M. D. Visser**,  Helene C. Muller-Landau,  Eelke Jongejans, Liza S. Comita, Hans de Kroon and S. Joseph Wright. Explaining variation among tree species in liana infestation.  In prep for Ecology.
