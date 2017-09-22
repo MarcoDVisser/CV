@@ -161,8 +161,7 @@ In prep
     density? An evaluation of regulating and limiting factors for a
     Neotropical palm species. In preparation for Ecology Letters.
 :   **15.** **M. D. Visser**, Helene C. Muller-Landau, Eelke Jongejans,
-    Liza S. Comita, Hans de Kroon and S. Joseph Wright. Explaining
-    variation among tree species in liana infestationA host-parasite
+    Liza S. Comita, Hans de Kroon and S. Joseph Wright. A host-parasite
     model explains variation in liana infestation among co-occurring
     tree species. In prep for Ecology.
 :   **16.** M. Bruijning, **M. D. Visser**, C. A. Hallmann, E.

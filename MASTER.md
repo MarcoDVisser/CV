@@ -89,7 +89,7 @@ In review
 
 In prep
 :   **14.** **M. D. Visser**, S. Joseph Wright, Helene C. Muller-Landau, Gemma Rutten, and Patrick A. Jansen. What determines population density? An evaluation of regulating and limiting factors for a Neotropical palm species. In preparation for Ecology Letters.
-:	**15.** **M. D. Visser**,  Helene C. Muller-Landau,  Eelke Jongejans, Liza S. Comita, Hans de Kroon and S. Joseph Wright. Explaining variation among tree species in liana infestationA host-parasite model explains variation in liana infestation among co-occurring tree species.  In prep for Ecology.
+:	**15.** **M. D. Visser**,  Helene C. Muller-Landau,  Eelke Jongejans, Liza S. Comita, Hans de Kroon and S. Joseph Wright. A host-parasite model explains variation in liana infestation among co-occurring tree species.  In prep for Ecology.
 :   **16.** M. Bruijning, **M. D. Visser**, C. A. Hallmann, E. Jongejans. Automated particle tracking to obtain population counts and size distributions from videos in R. In prep for Methods in Ecology and Evolution. 
 :	**17.** **M. D. Visser**,  Helene C. Muller-Landau,  Eelke Jongejans, Liza S. Comita, Hans de Kroon and S. Joseph Wright. The comparative demography of tropical trees. In prep for Ecology.
 
