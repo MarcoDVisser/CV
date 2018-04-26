@@ -144,9 +144,9 @@ September, 2007
     Journal of Ecology.
 :   **12.** E.J. Francis, H.C. Muller-Landau, S.J. Wright, **M. D.
     Visser**, Y. Iida, A.R. Kassim, C. Fletcher, and S.P. Hubbell.
-    Re-evaluating the functional significance of wood density for
-    interspecific variation in growth and survival in tropical trees.
-    Global Ecology and Biogeography
+    Quantifying the role of wood density in explaining interspecific
+    variation in growth of tropical trees. Global Ecology and
+    Biogeography
 
 In review
 :   **13.** Nadja Rüger, Liza S. Comita, Richard Condit, Drew Purves,

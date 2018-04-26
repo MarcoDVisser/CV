@@ -3,7 +3,7 @@
 ---
 
 
-*Postdocorial researcher at Princeton University.*
+*Postdoctoral researcher at Princeton University.*
 Visiting address: 100 Eno Hall Princeton, NJ  08540, United States.
 <mvisser@princeton.edu> - <marco.d.visser@gmail.com>
 
@@ -15,7 +15,7 @@ Visiting address: 100 Eno Hall Princeton, NJ  08540, United States.
 ### Research experience
 
 2016 - Present
-:      Postdocorial researcher (Nov 2016 - Present) at Department of Ecology and Evolutionary Biology, Princeton University (USA). 
+:      Postdoctoral researcher (Nov 2016 - Present) at Department of Ecology and Evolutionary Biology, Princeton University (USA). 
 
 2011 - 2016
 :      PhD candidate (Apr 2011 - Sep 2016) at Institute for Water and Wetland Research, Plant Ecology Group, Radboud University Nijmegen (The Netherlands).
@@ -82,7 +82,7 @@ September, 2007
 :	**10.** M. Bruijning, **Marco D. Visser**, C. A. Hallmann, E. Jongejans. trackdem: Particle Tracking and Demography. R package version 0.1.  https://cran.r-project.org/package=trackdem 2017.
 :	**11.** **M. D. Visser**, S. Joseph Wright, Helene C. Muller-Landau,  Eelke Jongejans, Liza S. Comita, Hans de Kroon and Stefan Schnitzer. Tree species vary widely in their tolerance for liana infestation: A case study of differential host response to generalist parasites. Journal of Ecology.
 :	**12.**  E.J. Francis, H.C. Muller-Landau, S.J. Wright, **M. D. Visser**, Y. Iida,
-A.R. Kassim, C. Fletcher, and S.P. Hubbell. Re-evaluating the functional significance of wood density for interspecific variation in growth and survival in tropical trees. Global Ecology and Biogeography
+A.R. Kassim, C. Fletcher, and S.P. Hubbell. Quantifying the role of wood density in explaining interspecific variation in growth of tropical trees. Global Ecology and Biogeography
 
 In review
 :   **13.** Nadja Rüger, Liza S. Comita, Richard Condit, Drew Purves, Benjamin Rosenbaum, **Marco D. Visser**, S. Joseph Wright, Christian Wirth. Beyond the fast-slow continuum: A novel trade-off structuring demographic dimensions of tropical trees. Ecology Letters.
