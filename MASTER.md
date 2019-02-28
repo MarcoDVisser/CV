@@ -58,40 +58,47 @@ September, 2007
 
 ### Publications (inc. submitted/ in preparation)
 2011
-:	**1.** **M. D. Visser**, E. Jongejans, M. van Breugel, P. A. Zuidema, Y. Chen, A. R. Kassim, H. de Kroon. 2011.  Strict mast fruiting for a tropical dipterocarp tree: A demographic cost-benefit analysis of delayed reproduction and seed predation. Journal of Ecology. 99, 1033-1044.  
-:	**2.** **M. D. Visser**, S. Joseph Wright, Helene C. Muller-Landau, Gemma Rutten and Patrick A. Jansen. Tri-trophic interactions affect density dependence of seed fate in a tropical forest palm. 2011, Ecology Letters. 14, 1093-1100.
+:	**1.** **M. D. Visser**, E. Jongejans, M. van Breugel, P. A. Zuidema, Y. Chen, A. R. Kassim, H. de Kroon. 2011.  Strict mast fruiting for a tropical dipterocarp tree: A demographic cost-benefit analysis of delayed reproduction and seed predation. Journal of Ecology. 99, 1033-1044.
+:	**2.** **M. D. Visser**, S. Joseph Wright, Helene C. Muller-Landau, Gemma Rutten and Patrick A. Jansen. Tri-trophic interactions affect density dependence of seed fate in a tropical forest palm. Ecology Letters. 14, 1093-1100.
 
 2012
 :	**3.** B. van Putten, **M. D. Visser**, P. A. Jansen and H. C. Muller-Landau. Distorted- distance models for directional dispersal: a general framework and its application to a wind-dispersed tropical forest trees. Methods in Ecology and Evolution. 2012.
-:	**4.** B. T. Hirsch, **M. D. Visser**, R. Kays and P. A. Jansen.  Quantifying seed dispersal kernels from truncated seed-tracking data. Methods in Ecology and Evolution. 2012
+:	**4.** B. T. Hirsch, **M. D. Visser**, R. Kays and P. A. Jansen.  Quantifying seed dispersal kernels from truncated seed-tracking data. Methods in Ecology and Evolution. 
 
 2013
-:	**5.** **M. D. Visser**. aprof: Amdahl's profiler, directed optimization made easy. R package version 0.1 - 0.3.1. http://cran.r-project.org/web/packages/aprof/index.html. 2013.
-
+:	**5.** **M. D. Visser**. aprof: Amdahl's profiler, directed optimization made easy. R package version 0.1 - 0.4.1. http://cran.r-project.org/web/packages/aprof/index.html. 
 2014
-:	**6.** P. A. Jansen, **M. D. Visser**, S. J. Wright, G. Rutten, H. C.  Muller-Landau. Negative density-dependence of seed dispersal and seedling recruitment in a Neotropical palm. Ecology Letters 17: 1111–1120. 2014.
+:	**6.** P. A. Jansen, **M. D. Visser**, S. J. Wright, G. Rutten, H. C.  Muller-Landau. Negative density-dependence of seed dispersal and seedling recruitment in a Neotropical palm. Ecology Letters 17: 1111–1120.
 
 2015
-:	**7.** **M. D. Visser**, S. M. McMahon, C. Merow, P. M. Dixon, S. Record and E. Jongejans.  Speeding Up Ecological and Evolutionary Computations in R; Essentials of High Performance Computing for Biologists. PLoS Comput Biol 11(3): e1004140. doi:10.1371/journal.pcbi.1004140. 2015.
+:	**7.** **M. D. Visser**, S. M. McMahon, C. Merow, P. M. Dixon, S. Record and E. Jongejans.  Speeding Up Ecological and Evolutionary Computations in R; Essentials of High Performance Computing for Biologists. PLoS Comput Biol 11(3): e1004140. doi:10.1371/journal.pcbi.1004140. 
 
 2016
 :	**8.** **M. D. Visser**, M. Bruijning, S. J. Wright, H. C. Muller-Landau,  E. Jongejans, L. S. Comita and H. de Kroon. Functional traits as predictors of vital rates across the life-cycle of tropical trees. Functional Ecology.
 
 2017
-:   **9.** M. Bruijning, **M. D. Visser**, H. C. Muller-Landau, S. J. Wright, L. S. Comita, S. P. Hubbell, H. de Kroon, E. Jongejans. Surviving in a cosexual world: a cost-benefit analysis of dioecy in tropical trees. 189:297-314.  American Naturalist.
-:	**10.** M. Bruijning, **Marco D. Visser**, C. A. Hallmann, E. Jongejans. trackdem: Particle Tracking and Demography. R package version 0.1.  https://cran.r-project.org/package=trackdem 2017.
+:	**9.** M. Bruijning, **M. D. Visser**, H. C. Muller-Landau, S. J. Wright, L. S. Comita, S. P. Hubbell, H. de Kroon, E. Jongejans. Surviving in a cosexual world: a cost-benefit analysis of dioecy in tropical trees. 189:297-314.  American Naturalist.
+:	**10.** M. Bruijning, **Marco D. Visser**, C. A. Hallmann, E. Jongejans. trackdem: Particle Tracking and Demography. R package version 0.1 - 0.4.2  https://cran.r-project.org/package=trackdem.
 :	**11.** **M. D. Visser**, S. Joseph Wright, Helene C. Muller-Landau,  Eelke Jongejans, Liza S. Comita, Hans de Kroon and Stefan Schnitzer. Tree species vary widely in their tolerance for liana infestation: A case study of differential host response to generalist parasites. Journal of Ecology.
 :	**12.**  E.J. Francis, H.C. Muller-Landau, S.J. Wright, **M. D. Visser**, Y. Iida,
 A.R. Kassim, C. Fletcher, and S.P. Hubbell. Quantifying the role of wood density in explaining interspecific variation in growth of tropical trees. Global Ecology and Biogeography
 
-In review
-:   **13.** Nadja Rüger, Liza S. Comita, Richard Condit, Drew Purves, Benjamin Rosenbaum, **Marco D. Visser**, S. Joseph Wright, Christian Wirth. Beyond the fast-slow continuum: A novel trade-off structuring demographic dimensions of tropical trees. Ecology Letters.
+2018
+:	**13.** Nadja Rüger, Liza S. Comita, Richard Condit, Drew Purves, Benjamin Rosenbaum, **Marco D. Visser**, S. Joseph Wright, Christian Wirth. Beyond the fast-slow continuum: A novel trade-off structuring demographic dimensions of tropical trees. Ecology Letters 21 (7). 1075-1084.
+
+:	**14.** M. Bruijning, **M. D. Visser**, C. A. Hallmann, E. Jongejans. Automated particle tracking to obtain population counts and size distributions from videos in R. Methods in Ecology and Evolution 9 (4), 965-973
+:	**15.** **M. D. Visser**,  Helene C. Muller-Landau,  Eelke Jongejans, Liza S. Comita, Hans de Kroon and S. Joseph Wright. A host-parasite model explains variation in liana infestation among co-occurring tree species. Journal of Ecology 106 (6), 2435-2445
+
+In revision
+:	**16** H. C. Muller-Landau and **M. D. Visser**. How do lianas and vines influence competitive differences and niche differences among tree species? Concepts and a case study in a tropical forest. Journal of Ecology.
 
 In prep
-:   **14.** **M. D. Visser**, S. Joseph Wright, Helene C. Muller-Landau, Gemma Rutten, and Patrick A. Jansen. What determines population density? An evaluation of regulating and limiting factors for a Neotropical palm species. In preparation for Ecology Letters.
-:	**15.** **M. D. Visser**,  Helene C. Muller-Landau,  Eelke Jongejans, Liza S. Comita, Hans de Kroon and S. Joseph Wright. A host-parasite model explains variation in liana infestation among co-occurring tree species.  In prep for Ecology.
-:   **16.** M. Bruijning, **M. D. Visser**, C. A. Hallmann, E. Jongejans. Automated particle tracking to obtain population counts and size distributions from videos in R. In prep for Methods in Ecology and Evolution. 
-:	**17.** **M. D. Visser**,  Helene C. Muller-Landau,  Eelke Jongejans, Liza S. Comita, Hans de Kroon and S. Joseph Wright. The comparative demography of tropical trees. In prep for Ecology.
+:	**17** H. De Deurwaerder, **M. D. Visser**, M. Detto, P. Boeckx, F. Meunier, H. Verbeeck. Diurnal variation in xylem water isotopic signature biases estimation depth of root-water uptake. In prep for New Phytologist. 
+:	**18** M. J. E. Broekmana, H. de Kroona, **M. D. Visser**, E. Jongejansa, S. J. Wright, H. C. Muller-Landau. Signs of Stable Coexistence. In prep for Ecology Letters.
+:	**19** M. Detto, **M. D. Visser**, S. J. Wright, S. Pacala. Is the perception of negative density dependence in ecological forest community distorted? In prep for Ecology Letters.
+:	**20** **M. D. Visser**, S. Joseph Wright, Helene C. Muller-Landau, Gemma Rutten, and Patrick A. Jansen. What determines population density? An evaluation of regulating and limiting factors for a Neotropical palm species. In preparation for Ecology Letters.
+:	**21** **M. D. Visser**,  Helene C. Muller-Landau,  Eelke Jongejans, Liza S. Comita, Hans de Kroon and S. Joseph Wright. The comparative demography of tropical trees. In prep for Ecology.
+: 	**22** **M D. Visser**, A. C. W. Borst,  H. C. Muller-Landau, S. J Wright, E Jongejans, P. A. Jansen. How poaching impacts the regulation of plant abundances in species with complex life cycles. In prep for Ecology.
 
 ---
 
@@ -134,10 +141,17 @@ F1000Prime.com/725405210#eval793508140
 
 2008
 :	- **Grant**: Smithsonian Tropical Research Institute, short term fellowship awarded for the study: Quantifying density-dependent responses of seed predators in the Neotropical palm Attalea butyracea. ($ 5k). 
-
+    
 ---
 
 ### International presentations
+
+2018
+:	 **Speaker** at the at the Association for Tropical Biology and Conservation Annual Meeting 2016. June 2018, Kuching, Malaysia. Beyond density-dependence alone: How density-dependent and independent mechanisms together determine species abundance in a common tree species.
+:	 **Speaker** at the European Conference of Tropical Ecology. March 2018, Paris, France. Density-dependent regulation and density-independent limitation together determine the abundance of a common tree species.
+
+2017
+:	 **Invited Speaker** at the European Conference of Tropical Ecology. March 2017, Brussels, Belgium. Parasite-host interactions in tropical trees: lianas differentially impact population growth rates among host trees species.
 
 2016
 :	 **Speaker** at the at the Association for Tropical Biology and Conservation Annual Meeting 2016. June 2016, Montpellier, France. Population-level effects of hunting on dispersal, seed predation and population abundance in the Neotropical palm Attalea butyracea.
@@ -153,7 +167,7 @@ F1000Prime.com/725405210#eval793508140
 2014
 :	  **Short Workshop** at the Yale School of Forestry & Environmental Studies. December 2014, New Haven. Speeding Up Ecological and Evolutionary Computations in R; Essentials of High Performance Computing for Biologists.
 
-2012:
+2012
 :	 **Invited speaker** at the conference "Everything disperses to Miami", December 14 - December 16, 2012, the University of Miami. The fitness consequences of dispersal for a tropical palm; the role of dispersers, natural enemies and negative density dependence.
 :	  **Invited speaker** at the Max Planck Intitute for Demographic Research, workshop on Integral Projection Models, Rostock Germany.  June 2012. A Blueprint for speeding-up calculations in R.
 :	   **Speaker** at the Netherlands Annual Ecology Meeting. February 2012. Quantifying dispersal kernels through inverse modeling.
