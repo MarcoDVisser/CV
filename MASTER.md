@@ -96,8 +96,8 @@ A.R. Kassim, C. Fletcher, and S.P. Hubbell. Quantifying the role of wood density
 :	**19** M. Detto, **M. D. Visser**, S. J. Wright, S. Pacala. Is the perception of negative density dependence in ecological forest community distorted? Ecology Letters, In press.
 
 In prep
-:	**21** **M. D. Visser**, S. Joseph Wright, S. Pacala. Why can we see lianas from space? In preparation for Remote sensing and the environment.
-:       H. De Deurwaerder, **M. D. Visser**, M. Detto, P. Boeckx, F. Meunier, H. Verbeeck. Why do Lianas have shallow root system compared to trees? In preparation for Ecology.
+:	**20** **M. D. Visser**, S. Joseph Wright, S. Pacala. Why can we see lianas from space? In preparation for Remote sensing and the environment.
+:       **21** H. De Deurwaerder, **M. D. Visser**, M. Detto, P. Boeckx, F. Meunier, H. Verbeeck. Why do Lianas have shallow root system compared to trees? In preparation for Ecology.
 :	**22** **M. D. Visser**, S. Joseph Wright, Helene C. Muller-Landau, Gemma Rutten, and Patrick A. Jansen. What determines population density? An evaluation of regulating and limiting factors for a Neotropical palm species. In preparation for Ecology Letters.
 :	**23** **M. D. Visser**,  Helene C. Muller-Landau,  Eelke Jongejans, Liza S. Comita, Hans de Kroon and S. Joseph Wright. The comparative demography of tropical trees. In prep for Ecology.
 : 	**24** **M D. Visser**, A. C. W. Borst,  H. C. Muller-Landau, S. J Wright, E Jongejans, P. A. Jansen. How poaching impacts the regulation of plant abundances in species with complex life cycles. In prep for Ecology.
