@@ -89,16 +89,18 @@ A.R. Kassim, C. Fletcher, and S.P. Hubbell. Quantifying the role of wood density
 :	**14.** M. Bruijning, **M. D. Visser**, C. A. Hallmann, E. Jongejans. Automated particle tracking to obtain population counts and size distributions from videos in R. Methods in Ecology and Evolution 9 (4), 965-973
 :	**15.** **M. D. Visser**,  Helene C. Muller-Landau,  Eelke Jongejans, Liza S. Comita, Hans de Kroon and S. Joseph Wright. A host-parasite model explains variation in liana infestation among co-occurring tree species. Journal of Ecology 106 (6), 2435-2445
 
-In revision
+2019
 :	**16** H. C. Muller-Landau and **M. D. Visser**. How do lianas and vines influence competitive differences and niche differences among tree species? Concepts and a case study in a tropical forest. Journal of Ecology.
+:	**17** H. De Deurwaerder, **M. D. Visser**, M. Detto, P. Boeckx, F. Meunier, H. Verbeeck. Diurnal variation in xylem water isotopic signature biases estimation depth of root-water uptake. bioRxiv 712554; doi: https://doi.org/10.1101/712554. 
+:	**18** M. J. E. Broekmana, H. de Kroona, **M. D. Visser**, E. Jongejansa, S. J. Wright, H. C. Muller-Landau. Signs of Stable Coexistence. Ecology Letters doi:10.1111/ele.13349.
+:	**19** M. Detto, **M. D. Visser**, S. J. Wright, S. Pacala. Is the perception of negative density dependence in ecological forest community distorted? Ecology Letters, In press.
 
 In prep
-:	**17** H. De Deurwaerder, **M. D. Visser**, M. Detto, P. Boeckx, F. Meunier, H. Verbeeck. Diurnal variation in xylem water isotopic signature biases estimation depth of root-water uptake. In prep for New Phytologist. 
-:	**18** M. J. E. Broekmana, H. de Kroona, **M. D. Visser**, E. Jongejansa, S. J. Wright, H. C. Muller-Landau. Signs of Stable Coexistence. In prep for Ecology Letters.
-:	**19** M. Detto, **M. D. Visser**, S. J. Wright, S. Pacala. Is the perception of negative density dependence in ecological forest community distorted? In prep for Ecology Letters.
-:	**20** **M. D. Visser**, S. Joseph Wright, Helene C. Muller-Landau, Gemma Rutten, and Patrick A. Jansen. What determines population density? An evaluation of regulating and limiting factors for a Neotropical palm species. In preparation for Ecology Letters.
-:	**21** **M. D. Visser**,  Helene C. Muller-Landau,  Eelke Jongejans, Liza S. Comita, Hans de Kroon and S. Joseph Wright. The comparative demography of tropical trees. In prep for Ecology.
-: 	**22** **M D. Visser**, A. C. W. Borst,  H. C. Muller-Landau, S. J Wright, E Jongejans, P. A. Jansen. How poaching impacts the regulation of plant abundances in species with complex life cycles. In prep for Ecology.
+:	**21** **M. D. Visser**, S. Joseph Wright, S. Pacala. Why can we see lianas from space? In preparation for Remote sensing and the environment.
+:       H. De Deurwaerder, **M. D. Visser**, M. Detto, P. Boeckx, F. Meunier, H. Verbeeck. Why do Lianas have shallow root system compared to trees? In preparation for Ecology.
+:	**22** **M. D. Visser**, S. Joseph Wright, Helene C. Muller-Landau, Gemma Rutten, and Patrick A. Jansen. What determines population density? An evaluation of regulating and limiting factors for a Neotropical palm species. In preparation for Ecology Letters.
+:	**23** **M. D. Visser**,  Helene C. Muller-Landau,  Eelke Jongejans, Liza S. Comita, Hans de Kroon and S. Joseph Wright. The comparative demography of tropical trees. In prep for Ecology.
+: 	**24** **M D. Visser**, A. C. W. Borst,  H. C. Muller-Landau, S. J Wright, E Jongejans, P. A. Jansen. How poaching impacts the regulation of plant abundances in species with complex life cycles. In prep for Ecology.
 
 ---
 
@@ -145,9 +147,14 @@ F1000Prime.com/725405210#eval793508140
 ---
 
 ### International presentations
+2019
+:	 **Session organizer** at the Netherlands Annual Ecology Meeting, February 2019, Lunteren, The Netherlands. Governing dynamics of community assembly: from big data to best practices
+:	 **Speaker** at the Netherlands Annual Ecology Meeting, February 2019, Lunteren, The Netherlands. Bigger isn’t always better: how regression dilution distorted the perception of negative density dependence.
+
 
 2018
 :	 **Speaker** at the at the Association for Tropical Biology and Conservation Annual Meeting 2016. June 2018, Kuching, Malaysia. Beyond density-dependence alone: How density-dependent and independent mechanisms together determine species abundance in a common tree species.
+
 :	 **Speaker** at the European Conference of Tropical Ecology. March 2018, Paris, France. Density-dependent regulation and density-independent limitation together determine the abundance of a common tree species.
 
 2017
