@@ -92,16 +92,16 @@ A.R. Kassim, C. Fletcher, and S.P. Hubbell. Quantifying the role of wood density
 2019
 :	**16** H. C. Muller-Landau and **M. D. Visser**. How do lianas and vines influence competitive differences and niche differences among tree species? Concepts and a case study in a tropical forest. Journal of Ecology.
 :	**17** H. De Deurwaerder, **M. D. Visser**, M. Detto, P. Boeckx, F. Meunier, H. Verbeeck. Diurnal variation in xylem water isotopic signature biases estimation depth of root-water uptake. bioRxiv 712554; doi: https://doi.org/10.1101/712554. 
-:	**18** M. J. E. Broekmana, H. de Kroona, **M. D. Visser**, E. Jongejansa, S. J. Wright, H. C. Muller-Landau. Signs of Stable Coexistence. Ecology Letters doi:10.1111/ele.13349.
-:	**19** M. Detto, **M. D. Visser**, S. J. Wright, S. Pacala. Is the perception of negative density dependence in ecological forest community distorted? Ecology Letters, In press.
-
+:	**18** M. J. E. Broekmana, H. de Kroona, **M. D. Visser**, E. Jongejansa, S. J. Wright, H. C. Muller-Landau. Signs of Stable Coexistence. Ecology Letters, doi:10.1111/ele.13349.
+:	**19** M. Detto, **M. D. Visser**, S. J. Wright, S. Pacala. Bias in the detection of negative density dependence in plant communities. Ecology Letters, doi:10.1111/ele.13372.
+<!--- uncomment if you want black space again.
 In prep
 :	**20** **M. D. Visser**, S. Joseph Wright, S. Pacala. Why can we see lianas from space? In preparation for Remote sensing and the environment.
-:       **21** H. De Deurwaerder, **M. D. Visser**, M. Detto, P. Boeckx, F. Meunier, H. Verbeeck. Why do Lianas have shallow root system compared to trees? In preparation for Ecology.
+:	**21** H. De Deurwaerder, **M. D. Visser**, M. Detto, P. Boeckx, F. Meunier, H. Verbeeck. Why do Lianas have shallow root system compared to trees? In preparation for Ecology.
 :	**22** **M. D. Visser**, S. Joseph Wright, Helene C. Muller-Landau, Gemma Rutten, and Patrick A. Jansen. What determines population density? An evaluation of regulating and limiting factors for a Neotropical palm species. In preparation for Ecology Letters.
 :	**23** **M. D. Visser**,  Helene C. Muller-Landau,  Eelke Jongejans, Liza S. Comita, Hans de Kroon and S. Joseph Wright. The comparative demography of tropical trees. In prep for Ecology.
 : 	**24** **M D. Visser**, A. C. W. Borst,  H. C. Muller-Landau, S. J Wright, E Jongejans, P. A. Jansen. How poaching impacts the regulation of plant abundances in species with complex life cycles. In prep for Ecology.
-
+-->
 ---
 
 &nbsp;
